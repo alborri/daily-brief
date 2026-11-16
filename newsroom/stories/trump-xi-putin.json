@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-16T16:50:00Z",
+ "rev": "2026-11-16T22:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -220,6 +220,29 @@
    "t": "Kremlin says Putin, Xi, Trump to hold trilateral meeting in Shenzhen on Nov. 19",
    "tier": "state",
    "u": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+  },
+  "cnn2": {
+   "n": "CNN",
+   "t": "How Trump is hoping to use an Asia trip to reassert his authority",
+   "tier": "intl",
+   "u": "https://www.cnn.com/2026/11/16/politics/trump-asia-trip-nvidia"
+  },
+  "ep": {
+   "n": "The Epoch Times",
+   "t": "Trump Heads to Philippines, China for Trade, Defense Talks",
+   "tier": "other",
+   "u": "https://www.theepochtimes.com/us/trump-heads-to-philippines-china-for-trade-defense-talks-6125664"
   }
- }
+ },
+ "updates": [
+  {
+   "at": "2026-11-16T22:55:00Z",
+   "d": "16 Nov 2026",
+   "s": [
+    "cnn2",
+    "ep"
+   ],
+   "t": "Trump leaves Washington for Asia. He is due at the ASEAN summit in Manila first, then at the APEC summit in Shenzhen, where the three-way meeting is planned for Thursday."
+  }
+ ]
 }

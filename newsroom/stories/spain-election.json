@@ -284,7 +284,7 @@
  "regions": [
   "Europe"
  ],
- "rev": "2026-11-16T16:50:00Z",
+ "rev": "2026-11-16T22:55:00Z",
  "sh": "Spain votes on 29 Nov: right leads most polls",
  "simple": "Spain is voting early, on 29 November, because the prime minister could not pass his housing plans. Most polls say the two parties on the right would together win enough seats to govern. One large public poll says the opposite, so the result is not certain.",
  "src": {
@@ -366,6 +366,18 @@
    "t": "General election survey: Sánchez exceeds 30%, but Feijóo maintains 192 seats with Vox, according to the 40dB tracking",
    "tier": "other",
    "u": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-election-survey-sanchez-exceeds-30-but-feijoo-maintains-192-seats-with-vox-according-to-the-40db-tracking/"
+  },
+  "rt": {
+   "n": "The Rio Times",
+   "t": "Spain’s PM and Rival Set for Nov. 19 Debate",
+   "tier": "other",
+   "u": "https://www.riotimesonline.com/spain-sanchez-feijoo-debate-nov-19/"
+  },
+  "dem2": {
+   "n": "Demócrata",
+   "t": "Sánchez and Feijóo will hold their electoral face-to-face on November 19 with María Casado as moderator",
+   "tier": "other",
+   "u": "https://www.democrata.es/en/general-elections-spain/sanchez-and-feijoo-will-hold-their-electoral-face-to-face-on-november-19-with-maria-casado-as-moderator/"
   }
  },
  "summary": "Spain votes in an early general election on Sunday 29 November. Most polls say the conservative People’s Party would win but need the Vox party to govern. The state pollster instead puts Prime Minister Pedro Sánchez’s Socialists first.",
@@ -396,7 +408,7 @@
  ],
  "watch": [
   "New polls this week",
-  "A visit by Brazil’s president on Monday to support Sánchez, reported by AP",
+  "The TV debate between Sánchez and Feijóo on Thursday 19 November",
   "Whether the PP says how it would work with Vox",
   "The last day of campaigning on 27 November"
  ],
@@ -411,6 +423,30 @@
    ],
    "t": "Three polls published on Monday show that the PP and Vox would together win a majority, Reuters reports, while the Socialists gain ground. In the daily 40dB poll for El País, the Socialists pass 30% for the first time, on 30.3%, and the PP and Vox together have 192 seats.",
    "why": "They are the first polls since the campaign began."
+  }
+ ],
+ "next": [
+  {
+   "d": "19 Nov 2026",
+   "s": [
+    "rt",
+    "dem2"
+   ],
+   "t": "Head-to-head TV debate between Sánchez and Feijóo."
+  },
+  {
+   "d": "27 Nov 2026",
+   "s": [
+    "bs"
+   ],
+   "t": "Last day of campaigning."
+  },
+  {
+   "d": "29 Nov 2026",
+   "s": [
+    "reu"
+   ],
+   "t": "Election day."
   }
  ]
 }

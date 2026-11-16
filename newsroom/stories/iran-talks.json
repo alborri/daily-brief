@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-16T16:50:00Z",
+ "rev": "2026-11-16T22:55:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -139,6 +139,18 @@
    "t": "Oil falls as recovering Middle East exports bolster surplus outlook",
    "tier": "agency",
    "u": "https://www.cnbc.com/amp/2026/11/16/oil-prices-brent-wti-latest.html"
+  },
+  "eur": {
+   "n": "Euronews",
+   "t": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+   "tier": "intl",
+   "u": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
+  },
+  "nat": {
+   "n": "The National (UAE)",
+   "t": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+   "tier": "national",
+   "u": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -166,6 +178,16 @@
    ],
    "t": "Iran’s foreign minister Abbas Araghchi says Iran is still committed to diplomacy. Iran’s naval forces say three oil tankers hit mines near the Strait of Hormuz. Maritime security reports also say a tanker was hit by an unknown projectile off Oman.",
    "why": "New incidents at sea keep the risk to Gulf oil exports high."
+  },
+  {
+   "at": "2026-11-16T22:55:00Z",
+   "d": "16 Nov 2026",
+   "s": [
+    "eur",
+    "nat"
+   ],
+   "t": "A third US aircraft carrier, the USS Theodore Roosevelt, has arrived in the Middle East, Euronews and The National report. Iran’s Revolutionary Guards now say six vessels have caught fire in the Strait of Hormuz since Sunday. The National says these claims could not be independently verified.",
+   "why": "More US forces in the region and new claims at sea raise the risk of a wider conflict."
   }
  ],
  "watch": [
