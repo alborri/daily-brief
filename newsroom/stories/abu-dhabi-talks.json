@@ -1,27 +1,153 @@
 {
-"event":[
-{"s":[4,8],"t":"The US, Russia and Ukraine met in Abu Dhabi on 10–11 November, their first three-way talks since February."},
-{"s":[7,12,13],"t":"Delegations were led by Steve Witkoff and Jared Kushner for the US, Kremlin aide Vladimir Medinsky for Russia, and Rustem Umerov for Ukraine."},
-{"s":[5,8],"t":"Talks focused on security guarantees for Ukraine and Europe, Russia’s own security demands, de-escalation and prisoners."},
-{"s":[5,6],"t":"Main result: agreement on a prisoner exchange. Ukraine’s negotiator says significant differences remain."},
-{"s":["abc","reu","bbg"],"t":"On 12 November the US envoys met Putin in Moscow, then Zelensky in Dublin. Kushner said Russia and Ukraine agreed that European countries will join the next round of talks."},
-{"s":["tj","reu","med"],"t":"Zelensky and Kushner both say the prisoner exchange would be the largest of the war. The reports give no date for it."}
-],
-"next":[
-{"d":"Next","s":["reu","bbg"],"t":"The prisoner exchange, and a next round of talks that includes European countries. The reports so far give no dates."}
-],
-"rev":"2026-11-16T11:36:00Z",
-"src":{
-"abc":{"n":"ABC News","t":"Witkoff, Kushner arrive in Moscow to meet Putin, discuss Ukraine","tier":"national","u":"https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"},
-"bbg":{"n":"Bloomberg","pay":true,"t":"Zelenskyy Hails Progress After Witkoff and Kushner Meet Putin","tier":"intl","u":"https://www.bloomberg.com/news/articles/2026-11-12/zelenskyy-hails-progress-after-witkoff-kushner-meet-putin"},
-"med":{"n":"Meduza","t":"Kushner says Ukraine and Russia are preparing what could be the war’s largest prisoner swap","tier":"intl","u":"https://meduza.io/en/news/2026/11/13/kushner-says-ukraine-and-russia-are-preparing-what-could-be-the-war-s-largest-prisoner-swap"},
-"reu":{"n":"Reuters (via US News)","t":"Kushner Says US Working Toward ‘Largest Prisoner Exchange’ of Russia’s War in Ukraine","tier":"agency","u":"https://www.usnews.com/news/world/articles/2026-11-12/kushner-says-us-working-toward-largest-prisoner-exchange-of-russias-war-in-ukraine"},
-"tj":{"n":"The Journal (Ireland)","t":"Zelenskyy hails ‘real results’ on prisoner of war exchange after meeting with Kushner and Witkoff","tier":"national","u":"https://www.thejournal.ie/zelenskyy-kushner-baldonnel-meeting-7224099-Nov2026/"}
-},
-"summary":"Talks in Abu Dhabi on 10–11 November produced one concrete result: a new prisoner exchange. Since then, US envoys have met Putin and Zelensky, and European countries are due to join the next round.",
-"updates":[
-{"at":"2026-11-16T11:35:00Z","d":"12 Nov 2026","key":true,"s":["abc","reu","bbg"],"t":"US envoys Steve Witkoff and Jared Kushner meet Putin in Moscow, then Zelensky in Dublin. Kushner says Russia and Ukraine agreed that European countries will join the next round of talks.","why":"Europe’s role in the talks had been unresolved."},
-{"at":"2026-11-16T11:36:00Z","d":"12–13 Nov 2026","s":["tj","reu","med"],"t":"Zelensky says the prisoner exchange is agreed and will be the biggest of the war. Kushner says it could reunite thousands of people with their families. The reports give no date."}
-],
-"watch":["When the prisoner exchange happens","The date and place of the next round, with European countries taking part","Whether Russian attacks on Ukrainian cities and energy sites continue"]
+ "event": [
+  {
+   "s": [
+    4,
+    8
+   ],
+   "t": "The US, Russia and Ukraine met in Abu Dhabi on 10–11 November, their first three-way talks since February."
+  },
+  {
+   "s": [
+    7,
+    12,
+    13
+   ],
+   "t": "Delegations were led by Steve Witkoff and Jared Kushner for the US, Kremlin aide Vladimir Medinsky for Russia, and Rustem Umerov for Ukraine."
+  },
+  {
+   "s": [
+    5,
+    8
+   ],
+   "t": "Talks focused on security guarantees for Ukraine and Europe, Russia’s own security demands, de-escalation and prisoners."
+  },
+  {
+   "s": [
+    5,
+    6
+   ],
+   "t": "Main result: agreement on a prisoner exchange. Ukraine’s negotiator says significant differences remain."
+  },
+  {
+   "s": [
+    "abc",
+    "reu",
+    "bbg"
+   ],
+   "t": "On 12 November the US envoys met Putin in Moscow, then Zelensky in Dublin. Kushner said Russia and Ukraine agreed that European countries will join the next round of talks."
+  },
+  {
+   "s": [
+    "tj",
+    "reu",
+    "med"
+   ],
+   "t": "Zelensky and Kushner both say the prisoner exchange would be the largest of the war. The reports give no date for it."
+  }
+ ],
+ "next": [
+  {
+   "d": "Next",
+   "s": [
+    "reu",
+    "bbg"
+   ],
+   "t": "The prisoner exchange, and a next round of talks that includes European countries. The reports so far give no dates."
+  }
+ ],
+ "rev": "2026-11-16T16:50:00Z",
+ "src": {
+  "abc": {
+   "n": "ABC News",
+   "t": "Witkoff, Kushner arrive in Moscow to meet Putin, discuss Ukraine",
+   "tier": "national",
+   "u": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"
+  },
+  "bbg": {
+   "n": "Bloomberg",
+   "pay": true,
+   "t": "Zelenskyy Hails Progress After Witkoff and Kushner Meet Putin",
+   "tier": "intl",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-12/zelenskyy-hails-progress-after-witkoff-kushner-meet-putin"
+  },
+  "med": {
+   "n": "Meduza",
+   "t": "Kushner says Ukraine and Russia are preparing what could be the war’s largest prisoner swap",
+   "tier": "intl",
+   "u": "https://meduza.io/en/news/2026/11/13/kushner-says-ukraine-and-russia-are-preparing-what-could-be-the-war-s-largest-prisoner-swap"
+  },
+  "reu": {
+   "n": "Reuters (via US News)",
+   "t": "Kushner Says US Working Toward ‘Largest Prisoner Exchange’ of Russia’s War in Ukraine",
+   "tier": "agency",
+   "u": "https://www.usnews.com/news/world/articles/2026-11-12/kushner-says-us-working-toward-largest-prisoner-exchange-of-russias-war-in-ukraine"
+  },
+  "tj": {
+   "n": "The Journal (Ireland)",
+   "t": "Zelenskyy hails ‘real results’ on prisoner of war exchange after meeting with Kushner and Witkoff",
+   "tier": "national",
+   "u": "https://www.thejournal.ie/zelenskyy-kushner-baldonnel-meeting-7224099-Nov2026/"
+  },
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato"
+  },
+  "ki": {
+   "n": "The Kyiv Independent",
+   "t": "Ukraine war latest: Russia launches mass attack on Odesa Oblast as Ukraine strikes airfield, drone launch site in Russia",
+   "tier": "national",
+   "u": "https://kyivindependent.com/ukraine-war-latest-russia-launches-mass-attack-on-odesa-oblast-as-ukraine-strikes-airfield-drone-launch-site-in-russia/"
+  },
+  "eun": {
+   "n": "Eunews",
+   "t": "Weekend Round-Up War in Ukraine Brief",
+   "tier": "other",
+   "u": "https://www.eunews.it/en/2026/11/16/weekend-round-up-war-ukraine-brief-europe-3/"
+  }
+ },
+ "summary": "Talks in Abu Dhabi on 10–11 November produced one concrete result: a new prisoner exchange. Since then, US envoys have met Putin and Zelensky, and European countries are due to join the next round.",
+ "updates": [
+  {
+   "at": "2026-11-16T11:35:00Z",
+   "d": "12 Nov 2026",
+   "key": true,
+   "s": [
+    "abc",
+    "reu",
+    "bbg"
+   ],
+   "t": "US envoys Steve Witkoff and Jared Kushner meet Putin in Moscow, then Zelensky in Dublin. Kushner says Russia and Ukraine agreed that European countries will join the next round of talks.",
+   "why": "Europe’s role in the talks had been unresolved."
+  },
+  {
+   "at": "2026-11-16T11:36:00Z",
+   "d": "12–13 Nov 2026",
+   "s": [
+    "tj",
+    "reu",
+    "med"
+   ],
+   "t": "Zelensky says the prisoner exchange is agreed and will be the biggest of the war. Kushner says it could reunite thousands of people with their families. The reports give no date."
+  },
+  {
+   "at": "2026-11-16T16:50:00Z",
+   "d": "14 Nov 2026",
+   "key": true,
+   "s": [
+    "aj",
+    "ki",
+    "eun"
+   ],
+   "t": "Zelensky says US negotiators asked, for the first time, whether Ukraine would withdraw from the parts of Donbas it still holds in exchange for joining NATO. He says Ukraine will not give up territory. Washington has not confirmed the proposal.",
+   "why": "Territory is the core dispute in the talks. Zelensky says the question puts NATO membership back on the agenda."
+  }
+ ],
+ "watch": [
+  "When the prisoner exchange happens",
+  "The date and place of the next round, with European countries taking part",
+  "Whether Russian attacks on Ukrainian cities and energy sites continue"
+ ]
 }

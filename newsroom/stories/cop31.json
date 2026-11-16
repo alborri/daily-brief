@@ -1,33 +1,158 @@
 {
-"date":"2026-11-16T11:34:00Z",
-"effects":[
-{"label":"Poorer countries","s":["chn7"],"t":"They want a clear yearly figure for adaptation money. Donors have not committed to one so far."},
-{"dir":"mixed","label":"Clean-energy and grid companies","s":["hdn2","chn7"],"t":"A global electricity goal would support demand for grids, renewables and batteries. It may not make the final text."},
-{"dir":"mixed","label":"Fossil fuels","s":["nob","chn7"],"t":"Whether the final text points to a plan for moving away from fossil fuels is still open."}
-],
-"event":[
-{"s":["hdn","nob"],"t":"The summit’s second and final week began on Monday 16 November. Ministers now have to settle what negotiators could not."},
-{"s":["hdn","chn7","can"],"t":"A first draft of the main summit text, known as the cover decision, is expected early this week. Climate Home News reported it was due on Monday."},
-{"s":["nob","can","chn6"],"t":"Countries are divided on whether to have a cover decision at all, and on what should be in it."},
-{"s":["hdn2","chn6","chn7"],"t":"Host Türkiye wants a goal to raise electricity to 35% of the world’s energy use by 2035. Several large developing countries reject new targets for single sectors in the text."},
-{"s":["chn7"],"t":"On money, developing countries want a promise of at least $120 billion a year by 2035 to help them adapt to climate change, Climate Home News reports. Richer countries have offered little new finance so far."}
-],
-"headline":"COP31 enters its final week with countries split over fossil fuels and money",
-"live":true,
-"rev":"2026-11-16T11:34:00Z",
-"sh":"COP31 enters final week, still split",
-"src":{
-"can":{"n":"Climate Action Network (campaign group)","t":"State of Play from Antalya: COP31 Midway Media Brief","tier":"other","u":"https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"},
-"chn6":{"n":"Climate Home News","pay":true,"t":"COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress","tier":"specialist","u":"https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"},
-"chn7":{"n":"Climate Home News","pay":true,"t":"COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome","tier":"specialist","u":"https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"},
-"hdn":{"n":"Hürriyet Daily News","t":"COP31 turns to ministers for deal on finance, energy","tier":"national","u":"https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"},
-"hdn2":{"n":"Hürriyet Daily News","t":"Türkiye eyes ambitious climate outcome as COP31 enters final week","tier":"national","u":"https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417"},
-"nob":{"n":"News of Bahrain","t":"COP31 talks intensify as climate divisions persist","tier":"national","u":"https://www.newsofbahrain.com/en/article/cop31-talks-intensify-as-climate-divisions-persist"}
-},
-"summary":"Ministers have taken over the UN climate talks in Antalya, which are due to end on Friday 20 November. Countries still disagree on money, on fossil fuels, and even on whether to issue a main summit decision.",
-"updates":[
-{"at":"2026-11-16T11:34:00Z","d":"16 Nov 2026","key":true,"s":["hdn","nob","chn7"],"t":"The final week begins. Ministers take over, a first draft of the main summit text is expected, and countries are split over fossil fuels and money.","top":true,"why":"What ministers agree by Friday decides whether the summit ends with clear goals."}
-],
-"watch":["The first draft of the cover decision","Meetings of ministers called by the Turkish presidency mid-week","Whether the electricity goal and a fossil fuel roadmap stay in the text","The scheduled close on Friday 20 November (climate summits often run late)"],
-"why":"The last days decide whether COP31 ends with clear goals or a weak text. That shapes how fast countries move away from fossil fuels, how much money reaches poorer countries, and the rules that energy companies and investors plan around."
+ "date": "2026-11-16T11:34:00Z",
+ "effects": [
+  {
+   "label": "Poorer countries",
+   "s": [
+    "chn7"
+   ],
+   "t": "They want a clear yearly figure for adaptation money. Donors have not committed to one so far."
+  },
+  {
+   "dir": "mixed",
+   "label": "Clean-energy and grid companies",
+   "s": [
+    "hdn2",
+    "chn7"
+   ],
+   "t": "A global electricity goal would support demand for grids, renewables and batteries. It may not make the final text."
+  },
+  {
+   "dir": "mixed",
+   "label": "Fossil fuels",
+   "s": [
+    "nob",
+    "chn7"
+   ],
+   "t": "Whether the final text points to a plan for moving away from fossil fuels is still open."
+  }
+ ],
+ "event": [
+  {
+   "s": [
+    "hdn",
+    "nob"
+   ],
+   "t": "The summit’s second and final week began on Monday 16 November. Ministers now have to settle what negotiators could not."
+  },
+  {
+   "s": [
+    "afp",
+    "reu"
+   ],
+   "t": "A first draft of the main summit text was published on Monday 16 November. It calls for faster action to move away from coal, oil and gas, and asks countries to raise electricity to 35% of final energy use by 2035. Nearly 200 countries still have to approve it."
+  },
+  {
+   "s": [
+    "nob",
+    "can",
+    "chn6"
+   ],
+   "t": "Countries are divided on whether to have a cover decision at all, and on what should be in it."
+  },
+  {
+   "s": [
+    "hdn2",
+    "chn6",
+    "chn7"
+   ],
+   "t": "Host Türkiye wants a goal to raise electricity to 35% of the world’s energy use by 2035. Several large developing countries reject new targets for single sectors in the text."
+  },
+  {
+   "s": [
+    "chn7"
+   ],
+   "t": "On money, developing countries want a promise of at least $120 billion a year by 2035 to help them adapt to climate change, Climate Home News reports. Richer countries have offered little new finance so far."
+  }
+ ],
+ "headline": "COP31 enters its final week with countries split over fossil fuels and money",
+ "live": true,
+ "rev": "2026-11-16T16:50:00Z",
+ "sh": "COP31 enters final week, still split",
+ "src": {
+  "can": {
+   "n": "Climate Action Network (campaign group)",
+   "t": "State of Play from Antalya: COP31 Midway Media Brief",
+   "tier": "other",
+   "u": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"
+  },
+  "chn6": {
+   "n": "Climate Home News",
+   "pay": true,
+   "t": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
+   "tier": "specialist",
+   "u": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+  },
+  "chn7": {
+   "n": "Climate Home News",
+   "pay": true,
+   "t": "COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome",
+   "tier": "specialist",
+   "u": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+  },
+  "hdn": {
+   "n": "Hürriyet Daily News",
+   "t": "COP31 turns to ministers for deal on finance, energy",
+   "tier": "national",
+   "u": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
+  },
+  "hdn2": {
+   "n": "Hürriyet Daily News",
+   "t": "Türkiye eyes ambitious climate outcome as COP31 enters final week",
+   "tier": "national",
+   "u": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417"
+  },
+  "nob": {
+   "n": "News of Bahrain",
+   "t": "COP31 talks intensify as climate divisions persist",
+   "tier": "national",
+   "u": "https://www.newsofbahrain.com/en/article/cop31-talks-intensify-as-climate-divisions-persist"
+  },
+  "afp": {
+   "n": "AFP (via Yahoo News)",
+   "t": "COP31 draft deal calls for ‘accelerated action’ to exit fossil fuels",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/science/articles/cop31-draft-deal-calls-accelerated-130134626.html"
+  },
+  "reu": {
+   "n": "Reuters (via Yahoo News)",
+   "t": "First draft of COP31 deal signals tough negotiations to come",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/articles/first-draft-cop31-deal-signals-140910867.html"
+  }
+ },
+ "summary": "Ministers have taken over the UN climate talks in Antalya, which are due to end on Friday 20 November. Countries still disagree on money, on fossil fuels, and even on whether to issue a main summit decision.",
+ "updates": [
+  {
+   "at": "2026-11-16T11:34:00Z",
+   "d": "16 Nov 2026",
+   "key": true,
+   "s": [
+    "hdn",
+    "nob",
+    "chn7"
+   ],
+   "t": "The final week begins. Ministers take over, a first draft of the main summit text is expected, and countries are split over fossil fuels and money.",
+   "top": true,
+   "why": "What ministers agree by Friday decides whether the summit ends with clear goals."
+  },
+  {
+   "at": "2026-11-16T16:50:00Z",
+   "d": "16 Nov 2026",
+   "key": true,
+   "s": [
+    "afp",
+    "reu"
+   ],
+   "t": "A first draft of the summit’s main text is published. It calls for faster action to move away from coal, oil and gas, and for electricity to reach 35% of final energy use by 2035. Nearly 200 countries still have to approve it.",
+   "why": "The draft is the basis for the bargaining before Friday’s deadline."
+  }
+ ],
+ "watch": [
+  "How countries react to the first draft of the main text",
+  "Meetings of ministers called by the Turkish presidency mid-week",
+  "Whether the electricity goal and a fossil fuel roadmap stay in the text",
+  "The scheduled close on Friday 20 November (climate summits often run late)"
+ ],
+ "why": "The last days decide whether COP31 ends with clear goals or a weak text. That shapes how fast countries move away from fossil fuels, how much money reaches poorer countries, and the rules that energy companies and investors plan around."
 }

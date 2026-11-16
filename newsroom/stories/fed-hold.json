@@ -1,0 +1,36 @@
+{
+ "rev": "2026-11-16T16:50:00Z",
+ "src": {
+  "st": {
+   "n": "TheStreet",
+   "t": "Fed’s Jumbo Rate-Hike Warning Shakes December Outlook",
+   "tier": "specialist",
+   "u": "https://www.thestreet.com/fed/fed-waller-jumbo-interest-rate-hike-december-inflation"
+  },
+  "yf": {
+   "n": "Yahoo Finance",
+   "t": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January",
+   "tier": "national",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-track-raise-interest-rates-195501318.html"
+  },
+  "mf": {
+   "n": "The Motley Fool",
+   "t": "A Larger-Than-Normal Fed Rate Hike in December Now Looks More Likely. Here’s Why.",
+   "tier": "other",
+   "u": "https://www.fool.com/investing/2026/11/14/a-larger-than-normal-fed-rate-hike-in-december-now-looks-more-likely-here-s-why/"
+  }
+ },
+ "updates": [
+  {
+   "at": "2026-11-16T16:50:00Z",
+   "d": "10–14 Nov 2026",
+   "s": [
+    "st",
+    "yf",
+    "mf"
+   ],
+   "t": "In speeches during the week, Fed officials signal a rate rise in December. Governor Christopher Waller says a half-point rise should be considered, which would be double the usual step.",
+   "why": "A larger rise would be a stronger move against inflation than the usual quarter point."
+  }
+ ]
+}

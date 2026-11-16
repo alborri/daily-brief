@@ -1,20 +1,61 @@
 {
-"calendar":[
-{"from":"2026-11-20","t":"Climate","text":"COP31 is due to end in Antalya"},
-{"from":"2026-11-29","t":"Politics","text":"Spain’s general election"},
-{"from":"2026-12-08","t":"Economy","text":"US Federal Reserve decision","to":"2026-12-09"},
-{"from":"2026-12-10","t":"Economy","text":"Swiss National Bank decision"},
-{"from":"2027-01-03","t":"Politics","text":"The new US Congress takes office","year":true}
-],
-"corrections":[],
-"held":[
-{"t":"Iran: a report that Iran’s foreign minister will visit Oman on Tuesday. One source so far."},
-{"t":"Iran: a report of a new attack on a tanker near the Strait of Hormuz. One source so far."},
-{"t":"Ukraine: whether the large prisoner exchange has started. No report confirms it yet."},
-{"t":"Oil: reports that Brent moved back above $96 later on Monday morning. Sources disagree, so only the Reuters price with its time is published."}
-],
-"lastChange":"2026-11-16T11:38:00Z",
-"lastCheck":"2026-11-16T11:38:00Z",
-"note":"First full check. New story: Spain’s election campaign. New top for Iran (attack claim in Bahrain), COP31 (final week) and oil (Monday’s price). Updates added to the Ukraine talks and the US midterms. The ECB and Fed stories were not re-checked in this run.",
-"schedule":"Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
+ "calendar": [
+  {
+   "from": "2026-11-19",
+   "t": "Geopolitics",
+   "text": "Trump, Xi and Putin are due to meet in Shenzhen"
+  },
+  {
+   "from": "2026-11-20",
+   "t": "Climate",
+   "text": "COP31 is due to end in Antalya"
+  },
+  {
+   "from": "2026-11-29",
+   "t": "Politics",
+   "text": "Spain’s general election"
+  },
+  {
+   "from": "2026-12-08",
+   "t": "Economy",
+   "text": "US Federal Reserve decision",
+   "to": "2026-12-09"
+  },
+  {
+   "from": "2026-12-10",
+   "t": "Economy",
+   "text": "Swiss National Bank decision"
+  },
+  {
+   "from": "2026-12-17",
+   "t": "Economy",
+   "text": "EU summit: leaders aim to choose the next ECB president",
+   "to": "2026-12-18"
+  },
+  {
+   "from": "2027-01-03",
+   "t": "Politics",
+   "text": "The new US Congress takes office",
+   "year": true
+  }
+ ],
+ "corrections": [],
+ "held": [
+  {
+   "t": "Iran: a report that Iran’s foreign minister will visit Oman on Tuesday. One source so far."
+  },
+  {
+   "t": "Iran: media reports that a third US aircraft carrier has arrived in the Middle East. The US military has not confirmed it."
+  },
+  {
+   "t": "Ukraine: a Russian official’s statement, carried by state media, that 1,200 to 1,300 prisoners from each side could be exchanged. No independent confirmation, and no sign yet that the exchange has started."
+  },
+  {
+   "t": "Oil: later prices on Monday differ between reports, from about $93.90 to $96.70 for Brent, and most give no clear time. Only the Reuters price with its time is published."
+  }
+ ],
+ "lastChange": "2026-11-16T16:50:00Z",
+ "lastCheck": "2026-11-16T16:50:00Z",
+ "note": "New story: Trump, Xi and Putin are due to meet in Shenzhen on Thursday. Updates: the first draft of the COP31 text, new polls in Spain, Iran (diplomacy and tanker incidents), the Ukraine talks (Donbas and NATO), the ECB succession and the Fed. No change to the oil story or the US midterms.",
+ "schedule": "Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
 }

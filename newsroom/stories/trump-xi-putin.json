@@ -1,0 +1,225 @@
+{
+ "date": "2026-11-16T16:50:00Z",
+ "rev": "2026-11-16T16:50:00Z",
+ "topics": [
+  "Geopolitics"
+ ],
+ "regions": [
+  "China",
+  "US",
+  "Global"
+ ],
+ "region": "China",
+ "importance": 9,
+ "icon": "handshake",
+ "live": true,
+ "ev": "Trump–Xi–Putin summit",
+ "sh": "Trump, Xi and Putin to meet in China",
+ "headline": "Trump, Xi and Putin are due to hold their first three-way meeting in China on Thursday",
+ "summary": "The leaders of the US, China and Russia are due to meet together for the first time on Thursday 19 November, in Shenzhen, during the APEC summit. The White House says the main topic is reducing nuclear weapons.",
+ "why": "The US, Russia and China are the world’s biggest nuclear powers, and their three leaders have never met as a group. What they agree, or fail to agree, could shape arms control for years. The meeting also comes while the wars in Ukraine and Iran are still going on.",
+ "simple": "The presidents of the United States, China and Russia plan to sit down together on Thursday in the Chinese city of Shenzhen. It would be the first time the three meet as a group. The US says it wants to talk about having fewer nuclear weapons.",
+ "event": [
+  {
+   "s": [
+    "cnn",
+    "abc",
+    "aj"
+   ],
+   "t": "The White House said on Friday 13 November that President Trump will meet China’s leader Xi Jinping and Russia’s President Vladimir Putin together. It would be the first three-way meeting of the countries’ leaders."
+  },
+  {
+   "s": [
+    "aa",
+    "cnn"
+   ],
+   "t": "The Kremlin said the meeting will be held on 19 November in Shenzhen, on the sidelines of the APEC summit. China’s foreign ministry confirmed the place and the day on Monday 16 November."
+  },
+  {
+   "s": [
+    "cnn",
+    "abc"
+   ],
+   "t": "The White House says Trump wants to discuss reducing the number of nuclear weapons in the world."
+  },
+  {
+   "s": [
+    "abc"
+   ],
+   "t": "US officials told ABC News that Trump expects to discuss Iran with Xi and Putin, but does not plan to discuss Russia’s war in Ukraine at the three-way meeting."
+  }
+ ],
+ "effects": [
+  {
+   "label": "Arms control",
+   "t": "A joint commitment on nuclear weapons by the three powers would be new. No three-way agreement of this kind exists today."
+  },
+  {
+   "label": "Ukraine",
+   "s": [
+    "abc",
+    "aj"
+   ],
+   "t": "The war is not on the agenda of the three-way meeting, US officials told ABC News. Analysts quoted by Al Jazeera say the meeting lets Putin show strength while the war is set aside."
+  },
+  {
+   "label": "Iran",
+   "s": [
+    "abc"
+   ],
+   "t": "Trump is expected to raise Iran with Xi and Putin, according to US officials."
+  }
+ ],
+ "background": [
+  {
+   "s": [
+    "aj",
+    "aa"
+   ],
+   "t": "APEC, the Asia-Pacific Economic Cooperation forum, holds its leaders’ summit in Shenzhen this week."
+  }
+ ],
+ "watch": [
+  "Whether the meeting goes ahead on Thursday as planned",
+  "Any joint statement on nuclear weapons",
+  "Separate meetings between the leaders in Shenzhen",
+  "What is said about Iran and Ukraine"
+ ],
+ "terms": [
+  {
+   "k": "APEC",
+   "v": "Asia-Pacific Economic Cooperation: a forum of economies around the Pacific, including the US, China and Russia. Its leaders meet once a year."
+  },
+  {
+   "k": "Three-way meeting",
+   "v": "A meeting between three parties, also called a trilateral meeting."
+  },
+  {
+   "k": "Arms control",
+   "v": "Agreements between countries to limit how many weapons they hold, or which kinds."
+  }
+ ],
+ "quiz": [
+  {
+   "c": 1,
+   "q": "Where are Trump, Xi and Putin due to meet?",
+   "o": [
+    "Beijing",
+    "Shenzhen",
+    "Manila",
+    "Moscow"
+   ],
+   "e": "The meeting is planned for 19 November in Shenzhen, China, during the APEC summit.",
+   "s": [
+    "aa",
+    "cnn"
+   ]
+  },
+  {
+   "c": 1,
+   "q": "What does the White House say is the main topic of the meeting?",
+   "o": [
+    "Trade tariffs",
+    "Reducing nuclear weapons",
+    "Climate change",
+    "Artificial intelligence"
+   ],
+   "e": "The White House says Trump wants to discuss reducing nuclear weapons in the world.",
+   "s": [
+    "cnn"
+   ]
+  }
+ ],
+ "ctx": {
+  "intro": "The US, Russia and China are the world’s biggest nuclear powers, and their leaders have never met as a group of three. The White House announced the meeting on 13 November. It is planned for the sidelines of this week’s APEC summit in Shenzhen.",
+  "is": [
+   "cnn",
+   "aj"
+  ],
+  "players": [
+   {
+    "n": "Donald Trump",
+    "r": "US president. He wants to discuss reducing nuclear weapons.",
+    "s": [
+     "cnn"
+    ]
+   },
+   {
+    "n": "Xi Jinping",
+    "r": "China’s leader. China hosts the APEC summit.",
+    "s": [
+     "aj"
+    ]
+   },
+   {
+    "n": "Vladimir Putin",
+    "r": "Russia’s president. The Kremlin confirmed that he will take part.",
+    "s": [
+     "aa",
+     "cnn"
+    ]
+   }
+  ],
+  "tl": [
+   {
+    "d": "13 Nov 2026",
+    "key": true,
+    "s": [
+     "cnn",
+     "abc"
+    ],
+    "t": "The White House announces that Trump will meet Xi and Putin together."
+   },
+   {
+    "d": "14 Nov 2026",
+    "s": [
+     "aa"
+    ],
+    "t": "The Kremlin says the meeting will be held on 19 November in Shenzhen."
+   },
+   {
+    "d": "16 Nov 2026",
+    "s": [
+     "cnn"
+    ],
+    "t": "China’s foreign ministry confirms the meeting for Thursday in Shenzhen.",
+    "tag": "now"
+   },
+   {
+    "d": "19 Nov 2026",
+    "s": [
+     "aa",
+     "cnn"
+    ],
+    "t": "Planned day of the three-way meeting.",
+    "tag": "next"
+   }
+  ]
+ },
+ "src": {
+  "cnn": {
+   "n": "CNN",
+   "t": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+   "tier": "intl",
+   "u": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+  },
+  "abc": {
+   "n": "ABC News",
+   "t": "Trump to meet with Putin and Xi in China next week, US officials say",
+   "tier": "national",
+   "u": "https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914"
+  },
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+  },
+  "aa": {
+   "n": "Anadolu Agency",
+   "t": "Kremlin says Putin, Xi, Trump to hold trilateral meeting in Shenzhen on Nov. 19",
+   "tier": "state",
+   "u": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+  }
+ }
+}

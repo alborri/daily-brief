@@ -1,88 +1,416 @@
 {
-"background":[
-{"s":["wiki"],"t":"In the last election, in July 2023, the PP won the most seats (137), ahead of the Socialists (121) and Vox (33). Sánchez stayed in power with the support of smaller parties."},
-{"s":["ap","aj"],"t":"Many Spaniards are angry about the cost of housing. Sánchez wanted the campaign to be about that."}
-],
-"ctx":{
-"intro":"Pedro Sánchez has led Spain since 2018. In the 2023 election the conservative PP won the most seats, but Sánchez kept power with the support of smaller parties. In October 2026 parliament rejected his housing plans, and he called an early election.",
-"is":["wiki","afp"],
-"players":[
-{"n":"Pedro Sánchez","r":"Prime minister and leader of the Socialists (PSOE).","s":["reu"]},
-{"n":"Alberto Núñez Feijóo","r":"Leader of the conservative People’s Party (PP).","s":["bs"]},
-{"n":"Santiago Abascal","r":"Leader of Vox.","s":["bs"]},
-{"n":"Ada Colau","r":"Leads Frente Amplio, a left-wing list that replaced Sumar.","s":["bs"]}
-],
-"tl":[
-{"d":"Jul 2023","s":["wiki"],"t":"General election: the PP wins the most seats, but Sánchez stays in power with the support of smaller parties."},
-{"d":"5 Oct 2026","key":true,"s":["afp","bbg"],"t":"Parliament rejects the government’s emergency housing measures. Sánchez calls an election for 29 November."},
-{"d":"28 Oct 2026","key":true,"s":["ap","aj"],"t":"A high-speed train crashes into another train near Toledo, killing 69 people."},
-{"d":"3 Nov 2026","s":["op","ap"],"t":"Transport minister Óscar Puente resigns."},
-{"d":"9 Nov 2026","s":["reu"],"t":"Polls reported by Reuters show the PP ahead of the Socialists but needing Vox for a majority."},
-{"d":"12 Nov 2026","s":["cis","agp"],"t":"The state pollster CIS publishes a large survey that puts the Socialists first on 33.3%."},
-{"d":"13 Nov 2026","s":["bs","aa"],"t":"The official campaign begins.","tag":"now"},
-{"d":"27 Nov 2026","s":["bs"],"t":"Last day of campaigning.","tag":"next"},
-{"d":"29 Nov 2026","s":["reu"],"t":"Election day.","tag":"next"}
-]
-},
-"date":"2026-11-16T11:38:00Z",
-"effects":[
-{"label":"Who governs Spain","s":["reu"],"t":"If the polls are right, the PP would need Vox to reach a majority. That would be a first at national level."},
-{"label":"Housing","s":["ap"],"t":"Sánchez called the vote over housing. The result decides whose plan for rents and building goes ahead."},
-{"label":"Europe","t":"A PP–Vox majority would move another large EU country to the right."}
-],
-"ev":"Spain’s general election",
-"event":[
-{"s":["bs","aa"],"t":"The official campaign began on Friday 13 November and runs until 27 November. Voting is on Sunday 29 November."},
-{"s":["reu","afp","bbg"],"t":"Prime Minister Pedro Sánchez called the early vote on 5 October, after parliament rejected his government’s emergency housing measures."},
-{"s":["reu","bs","aa"],"t":"Most private polls put the conservative People’s Party (PP) first. They give PP and Vox together about 190 to 200 of the 350 seats; 176 are needed for a majority."},
-{"s":["cis","agp"],"t":"The state polling institute, the CIS, shows a different picture: Socialists first on 33.3%, PP on 25.5% and Vox on 18.4%, leaving PP and Vox short of a majority. It has differed from private polls before."},
-{"s":["ap","aj","op"],"t":"A high-speed train crash that killed 69 people on 28 October changed the campaign. Transport minister Óscar Puente resigned six days later."},
-{"s":["ap","aa","reu"],"t":"The main issues are the cost of housing, immigration, corruption allegations and rail safety."}
-],
-"headline":"Spain’s election campaign is under way, with the right ahead in most polls",
-"icon":"ballot",
-"importance":8,
-"live":true,
-"persp":{
-"items":[
-{"desc":"Turkish state news agency","outlet":"Anadolu Agency","s":["aa"],"state":true,"text":"He asks voters to defend his government’s social policies against a possible PP–Vox majority.","who":"Pedro Sánchez (Socialists)"},
-{"desc":"Brussels-based news site","outlet":"Brussels Signal","s":["bs"],"text":"It promises an audit of public spending under the Socialists and campaigns on housing and on corruption allegations against the government.","who":"People’s Party (PP)"},
-{"desc":"Brussels-based news site","outlet":"Brussels Signal","s":["bs"],"text":"It campaigns on immigration: priority for Spaniards in public aid, and an end to large-scale regularisations of migrants.","who":"Vox"}
-],
-"type":"debate"
-},
-"quiz":[
-{"c":1,"e":"The early general election is on Sunday 29 November. The campaign began on 13 November.","o":["22 November","29 November","6 December","13 December"],"q":"When does Spain vote?","s":["reu","bs"]},
-{"c":1,"e":"The lower house has 350 seats, so 176 is a majority.","o":["151","176","200","326"],"q":"How many seats are needed for a majority in Spain’s lower house?","s":["aa","bs"]},
-{"c":1,"e":"He called the vote on 5 October after parliament rejected his government’s emergency housing measures.","o":["His coalition partner left the government","Parliament rejected his housing measures","A court ordered a new vote","He lost a confidence vote"],"q":"Why did Pedro Sánchez call the election early?","s":["afp","bbg"]}
-],
-"region":"Europe",
-"regions":["Europe"],
-"rev":"2026-11-16T11:38:00Z",
-"sh":"Spain votes on 29 Nov: right leads most polls",
-"simple":"Spain is voting early, on 29 November, because the prime minister could not pass his housing plans. Most polls say the two parties on the right would together win enough seats to govern. One large public poll says the opposite, so the result is not certain.",
-"src":{
-"aa":{"n":"Anadolu Agency","t":"Spain kicks off election campaign ahead of Nov. 29 vote","tier":"state","u":"https://www.aa.com.tr/en/europe/spain-kicks-off-election-campaign-ahead-of-nov-29-vote/4124041"},
-"afp":{"n":"AFP (via France 24)","t":"Spain’s PM calls snap election after housing bill defeat","tier":"agency","u":"https://www.france24.com/en/live-news/20261005-spain-s-pm-calls-snap-election-after-housing-bill-defeat"},
-"agp":{"n":"Agenda Pública","t":"Detrás de los datos del CIS: los 194 escaños de PP y Vox","tier":"specialist","u":"https://agendapublica.es/noticia/21691/detras-datos-cis-194-escanos-pp-vox"},
-"aj":{"n":"Al Jazeera","t":"Spain’s deadly train crash redraws electoral battle lines","tier":"intl","u":"https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections"},
-"ap":{"n":"AP (via KSAT)","t":"Spain’s leader wanted a campaign focused on housing. A deadly train crash has complicated that","tier":"agency","u":"https://www.ksat.com/news/world/2026/11/13/spains-sanchez-faces-political-test-as-deadly-train-crash-casts-shadow-over-election-campaign/"},
-"bbg":{"n":"Bloomberg","pay":true,"t":"Spain’s Sánchez Calls Snap Election After Housing Plan Fails","tier":"intl","u":"https://www.bloomberg.com/news/articles/2026-10-05/spain-s-sanchez-calls-snap-election-after-housing-plan-fails"},
-"bs":{"n":"Brussels Signal","t":"Spain’s election campaign opens with polls pointing to right-wing majority","tier":"other","u":"https://brusselssignal.eu/2026/11/spains-election-campaign-opens-with-polls-pointing-to-right-wing-majority/"},
-"cis":{"n":"Telemadrid","t":"El CIS da la victoria al PSOE con el 33% y niega la mayoría a un pacto de PP-Vox","tier":"national","u":"https://www.telemadrid.es/elecciones/generales/2026/cis-da-victoria-psoe-33_1_2811521.html"},
-"op":{"n":"The Olive Press","t":"Political round-up: Puente’s exit clears the tracks for Spain’s election battle as general strike looms","tier":"other","u":"https://www.theolivepress.es/spain-news/2026/11/08/spain-election-rail-safety-strike/"},
-"reu":{"n":"Reuters (via Yahoo News)","t":"Spain’s right well ahead in polls for November 29 election","tier":"agency","u":"https://www.yahoo.com/news/politics/articles/spains-well-ahead-polls-november-124042634.html"},
-"wiki":{"n":"Wikipedia","t":"Next Spanish general election","tier":"other","u":"https://en.wikipedia.org/wiki/Next_Spanish_general_election"}
-},
-"summary":"Spain votes in an early general election on Sunday 29 November. Most polls say the conservative People’s Party would win but need the Vox party to govern. The state pollster instead puts Prime Minister Pedro Sánchez’s Socialists first.",
-"terms":[
-{"k":"Snap election","v":"An election called earlier than scheduled."},
-{"k":"176 seats","v":"The number needed for a majority in Spain’s 350-seat lower house of parliament."},
-{"k":"PP and PSOE","v":"The People’s Party (PP) is Spain’s main conservative party. The PSOE, or Socialists, is the main centre-left party, led by Pedro Sánchez."},
-{"k":"Vox","v":"A nationalist party to the right of the PP. Reuters describes it as right-wing; France 24 and Anadolu call it far-right."},
-{"k":"CIS","v":"Spain’s state-run polling institute. Its results often differ from those of private pollsters."}
-],
-"topics":["Politics"],
-"watch":["New polls this week","A visit by Brazil’s president on Monday to support Sánchez, reported by AP","Whether the PP says how it would work with Vox","The last day of campaigning on 27 November"],
-"why":"Spain is the euro area’s fourth-largest economy. A change of government would shift its course on housing, immigration and public spending. If the polls are right, the conservatives would depend on Vox, which has never been part of a national government."
+ "background": [
+  {
+   "s": [
+    "wiki"
+   ],
+   "t": "In the last election, in July 2023, the PP won the most seats (137), ahead of the Socialists (121) and Vox (33). Sánchez stayed in power with the support of smaller parties."
+  },
+  {
+   "s": [
+    "ap",
+    "aj"
+   ],
+   "t": "Many Spaniards are angry about the cost of housing. Sánchez wanted the campaign to be about that."
+  }
+ ],
+ "ctx": {
+  "intro": "Pedro Sánchez has led Spain since 2018. In the 2023 election the conservative PP won the most seats, but Sánchez kept power with the support of smaller parties. In October 2026 parliament rejected his housing plans, and he called an early election.",
+  "is": [
+   "wiki",
+   "afp"
+  ],
+  "players": [
+   {
+    "n": "Pedro Sánchez",
+    "r": "Prime minister and leader of the Socialists (PSOE).",
+    "s": [
+     "reu"
+    ]
+   },
+   {
+    "n": "Alberto Núñez Feijóo",
+    "r": "Leader of the conservative People’s Party (PP).",
+    "s": [
+     "bs"
+    ]
+   },
+   {
+    "n": "Santiago Abascal",
+    "r": "Leader of Vox.",
+    "s": [
+     "bs"
+    ]
+   },
+   {
+    "n": "Ada Colau",
+    "r": "Leads Frente Amplio, a left-wing list that replaced Sumar.",
+    "s": [
+     "bs"
+    ]
+   }
+  ],
+  "tl": [
+   {
+    "d": "Jul 2023",
+    "s": [
+     "wiki"
+    ],
+    "t": "General election: the PP wins the most seats, but Sánchez stays in power with the support of smaller parties."
+   },
+   {
+    "d": "5 Oct 2026",
+    "key": true,
+    "s": [
+     "afp",
+     "bbg"
+    ],
+    "t": "Parliament rejects the government’s emergency housing measures. Sánchez calls an election for 29 November."
+   },
+   {
+    "d": "28 Oct 2026",
+    "key": true,
+    "s": [
+     "ap",
+     "aj"
+    ],
+    "t": "A high-speed train crashes into another train near Toledo, killing 69 people."
+   },
+   {
+    "d": "3 Nov 2026",
+    "s": [
+     "op",
+     "ap"
+    ],
+    "t": "Transport minister Óscar Puente resigns."
+   },
+   {
+    "d": "9 Nov 2026",
+    "s": [
+     "reu"
+    ],
+    "t": "Polls reported by Reuters show the PP ahead of the Socialists but needing Vox for a majority."
+   },
+   {
+    "d": "12 Nov 2026",
+    "s": [
+     "cis",
+     "agp"
+    ],
+    "t": "The state pollster CIS publishes a large survey that puts the Socialists first on 33.3%."
+   },
+   {
+    "d": "13 Nov 2026",
+    "s": [
+     "bs",
+     "aa"
+    ],
+    "t": "The official campaign begins.",
+    "tag": "now"
+   },
+   {
+    "d": "27 Nov 2026",
+    "s": [
+     "bs"
+    ],
+    "t": "Last day of campaigning.",
+    "tag": "next"
+   },
+   {
+    "d": "29 Nov 2026",
+    "s": [
+     "reu"
+    ],
+    "t": "Election day.",
+    "tag": "next"
+   }
+  ]
+ },
+ "date": "2026-11-16T11:38:00Z",
+ "effects": [
+  {
+   "label": "Who governs Spain",
+   "s": [
+    "reu"
+   ],
+   "t": "If the polls are right, the PP would need Vox to reach a majority. That would be a first at national level."
+  },
+  {
+   "label": "Housing",
+   "s": [
+    "ap"
+   ],
+   "t": "Sánchez called the vote over housing. The result decides whose plan for rents and building goes ahead."
+  },
+  {
+   "label": "Europe",
+   "t": "A PP–Vox majority would move another large EU country to the right."
+  }
+ ],
+ "ev": "Spain’s general election",
+ "event": [
+  {
+   "s": [
+    "bs",
+    "aa"
+   ],
+   "t": "The official campaign began on Friday 13 November and runs until 27 November. Voting is on Sunday 29 November."
+  },
+  {
+   "s": [
+    "reu",
+    "afp",
+    "bbg"
+   ],
+   "t": "Prime Minister Pedro Sánchez called the early vote on 5 October, after parliament rejected his government’s emergency housing measures."
+  },
+  {
+   "s": [
+    "reu",
+    "bs",
+    "aa"
+   ],
+   "t": "Most private polls put the conservative People’s Party (PP) first. They give PP and Vox together about 190 to 200 of the 350 seats; 176 are needed for a majority."
+  },
+  {
+   "s": [
+    "cis",
+    "agp"
+   ],
+   "t": "The state polling institute, the CIS, shows a different picture: Socialists first on 33.3%, PP on 25.5% and Vox on 18.4%, leaving PP and Vox short of a majority. It has differed from private polls before."
+  },
+  {
+   "s": [
+    "ap",
+    "aj",
+    "op"
+   ],
+   "t": "A high-speed train crash that killed 69 people on 28 October changed the campaign. Transport minister Óscar Puente resigned six days later."
+  },
+  {
+   "s": [
+    "ap",
+    "aa",
+    "reu"
+   ],
+   "t": "The main issues are the cost of housing, immigration, corruption allegations and rail safety."
+  }
+ ],
+ "headline": "Spain’s election campaign is under way, with the right ahead in most polls",
+ "icon": "ballot",
+ "importance": 8,
+ "live": true,
+ "persp": {
+  "items": [
+   {
+    "desc": "Turkish state news agency",
+    "outlet": "Anadolu Agency",
+    "s": [
+     "aa"
+    ],
+    "state": true,
+    "text": "He asks voters to defend his government’s social policies against a possible PP–Vox majority.",
+    "who": "Pedro Sánchez (Socialists)"
+   },
+   {
+    "desc": "Brussels-based news site",
+    "outlet": "Brussels Signal",
+    "s": [
+     "bs"
+    ],
+    "text": "It promises an audit of public spending under the Socialists and campaigns on housing and on corruption allegations against the government.",
+    "who": "People’s Party (PP)"
+   },
+   {
+    "desc": "Brussels-based news site",
+    "outlet": "Brussels Signal",
+    "s": [
+     "bs"
+    ],
+    "text": "It campaigns on immigration: priority for Spaniards in public aid, and an end to large-scale regularisations of migrants.",
+    "who": "Vox"
+   }
+  ],
+  "type": "debate"
+ },
+ "quiz": [
+  {
+   "c": 1,
+   "e": "The early general election is on Sunday 29 November. The campaign began on 13 November.",
+   "o": [
+    "22 November",
+    "29 November",
+    "6 December",
+    "13 December"
+   ],
+   "q": "When does Spain vote?",
+   "s": [
+    "reu",
+    "bs"
+   ]
+  },
+  {
+   "c": 1,
+   "e": "The lower house has 350 seats, so 176 is a majority.",
+   "o": [
+    "151",
+    "176",
+    "200",
+    "326"
+   ],
+   "q": "How many seats are needed for a majority in Spain’s lower house?",
+   "s": [
+    "aa",
+    "bs"
+   ]
+  },
+  {
+   "c": 1,
+   "e": "He called the vote on 5 October after parliament rejected his government’s emergency housing measures.",
+   "o": [
+    "His coalition partner left the government",
+    "Parliament rejected his housing measures",
+    "A court ordered a new vote",
+    "He lost a confidence vote"
+   ],
+   "q": "Why did Pedro Sánchez call the election early?",
+   "s": [
+    "afp",
+    "bbg"
+   ]
+  }
+ ],
+ "region": "Europe",
+ "regions": [
+  "Europe"
+ ],
+ "rev": "2026-11-16T16:50:00Z",
+ "sh": "Spain votes on 29 Nov: right leads most polls",
+ "simple": "Spain is voting early, on 29 November, because the prime minister could not pass his housing plans. Most polls say the two parties on the right would together win enough seats to govern. One large public poll says the opposite, so the result is not certain.",
+ "src": {
+  "aa": {
+   "n": "Anadolu Agency",
+   "t": "Spain kicks off election campaign ahead of Nov. 29 vote",
+   "tier": "state",
+   "u": "https://www.aa.com.tr/en/europe/spain-kicks-off-election-campaign-ahead-of-nov-29-vote/4124041"
+  },
+  "afp": {
+   "n": "AFP (via France 24)",
+   "t": "Spain’s PM calls snap election after housing bill defeat",
+   "tier": "agency",
+   "u": "https://www.france24.com/en/live-news/20261005-spain-s-pm-calls-snap-election-after-housing-bill-defeat"
+  },
+  "agp": {
+   "n": "Agenda Pública",
+   "t": "Detrás de los datos del CIS: los 194 escaños de PP y Vox",
+   "tier": "specialist",
+   "u": "https://agendapublica.es/noticia/21691/detras-datos-cis-194-escanos-pp-vox"
+  },
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "Spain’s deadly train crash redraws electoral battle lines",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections"
+  },
+  "ap": {
+   "n": "AP (via KSAT)",
+   "t": "Spain’s leader wanted a campaign focused on housing. A deadly train crash has complicated that",
+   "tier": "agency",
+   "u": "https://www.ksat.com/news/world/2026/11/13/spains-sanchez-faces-political-test-as-deadly-train-crash-casts-shadow-over-election-campaign/"
+  },
+  "bbg": {
+   "n": "Bloomberg",
+   "pay": true,
+   "t": "Spain’s Sánchez Calls Snap Election After Housing Plan Fails",
+   "tier": "intl",
+   "u": "https://www.bloomberg.com/news/articles/2026-10-05/spain-s-sanchez-calls-snap-election-after-housing-plan-fails"
+  },
+  "bs": {
+   "n": "Brussels Signal",
+   "t": "Spain’s election campaign opens with polls pointing to right-wing majority",
+   "tier": "other",
+   "u": "https://brusselssignal.eu/2026/11/spains-election-campaign-opens-with-polls-pointing-to-right-wing-majority/"
+  },
+  "cis": {
+   "n": "Telemadrid",
+   "t": "El CIS da la victoria al PSOE con el 33% y niega la mayoría a un pacto de PP-Vox",
+   "tier": "national",
+   "u": "https://www.telemadrid.es/elecciones/generales/2026/cis-da-victoria-psoe-33_1_2811521.html"
+  },
+  "op": {
+   "n": "The Olive Press",
+   "t": "Political round-up: Puente’s exit clears the tracks for Spain’s election battle as general strike looms",
+   "tier": "other",
+   "u": "https://www.theolivepress.es/spain-news/2026/11/08/spain-election-rail-safety-strike/"
+  },
+  "reu": {
+   "n": "Reuters (via Yahoo News)",
+   "t": "Spain’s right well ahead in polls for November 29 election",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/politics/articles/spains-well-ahead-polls-november-124042634.html"
+  },
+  "wiki": {
+   "n": "Wikipedia",
+   "t": "Next Spanish general election",
+   "tier": "other",
+   "u": "https://en.wikipedia.org/wiki/Next_Spanish_general_election"
+  },
+  "reu2": {
+   "n": "Reuters (via US News)",
+   "t": "Spain’s Right Retains Firm Poll Lead Despite Socialist Gains",
+   "tier": "agency",
+   "u": "https://www.usnews.com/news/world/articles/2026-11-16/spains-right-retains-firm-poll-lead-despite-socialist-gains"
+  },
+  "dem": {
+   "n": "Demócrata",
+   "t": "General election survey: Sánchez exceeds 30%, but Feijóo maintains 192 seats with Vox, according to the 40dB tracking",
+   "tier": "other",
+   "u": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-election-survey-sanchez-exceeds-30-but-feijoo-maintains-192-seats-with-vox-according-to-the-40db-tracking/"
+  }
+ },
+ "summary": "Spain votes in an early general election on Sunday 29 November. Most polls say the conservative People’s Party would win but need the Vox party to govern. The state pollster instead puts Prime Minister Pedro Sánchez’s Socialists first.",
+ "terms": [
+  {
+   "k": "Snap election",
+   "v": "An election called earlier than scheduled."
+  },
+  {
+   "k": "176 seats",
+   "v": "The number needed for a majority in Spain’s 350-seat lower house of parliament."
+  },
+  {
+   "k": "PP and PSOE",
+   "v": "The People’s Party (PP) is Spain’s main conservative party. The PSOE, or Socialists, is the main centre-left party, led by Pedro Sánchez."
+  },
+  {
+   "k": "Vox",
+   "v": "A nationalist party to the right of the PP. Reuters describes it as right-wing; France 24 and Anadolu call it far-right."
+  },
+  {
+   "k": "CIS",
+   "v": "Spain’s state-run polling institute. Its results often differ from those of private pollsters."
+  }
+ ],
+ "topics": [
+  "Politics"
+ ],
+ "watch": [
+  "New polls this week",
+  "A visit by Brazil’s president on Monday to support Sánchez, reported by AP",
+  "Whether the PP says how it would work with Vox",
+  "The last day of campaigning on 27 November"
+ ],
+ "why": "Spain is the euro area’s fourth-largest economy. A change of government would shift its course on housing, immigration and public spending. If the polls are right, the conservatives would depend on Vox, which has never been part of a national government.",
+ "updates": [
+  {
+   "at": "2026-11-16T16:50:00Z",
+   "d": "16 Nov 2026",
+   "s": [
+    "reu2",
+    "dem"
+   ],
+   "t": "Three polls published on Monday show that the PP and Vox would together win a majority, Reuters reports, while the Socialists gain ground. In the daily 40dB poll for El País, the Socialists pass 30% for the first time, on 30.3%, and the PP and Vox together have 192 seats.",
+   "why": "They are the first polls since the campaign began."
+  }
+ ]
 }

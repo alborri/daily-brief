@@ -1,0 +1,37 @@
+{
+ "rev": "2026-11-16T16:50:00Z",
+ "src": {
+  "eg": {
+   "n": "Council of the EU (Eurogroup)",
+   "t": "Statement by the Eurogroup President on the nominations for the post of ECB President",
+   "tier": "official",
+   "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/"
+  },
+  "qz": {
+   "n": "Quartz",
+   "t": "E.U. ministers are pushing for a December deal on ECB’s next president",
+   "tier": "intl",
+   "u": "https://qz.com/eu-ministers-december-deal-ecb-president-110926"
+  },
+  "reu": {
+   "n": "Reuters (via Global Banking & Finance Review)",
+   "t": "EU leaders aim to appoint new ECB chief in December, official says",
+   "tier": "agency",
+   "u": "https://www.globalbankingandfinance.com/eu-leaders-aim-appoint-new-ecb-chief-december-official/"
+  }
+ },
+ "updates": [
+  {
+   "at": "2026-11-16T16:50:00Z",
+   "d": "6–9 Nov 2026",
+   "key": true,
+   "s": [
+    "eg",
+    "qz",
+    "reu"
+   ],
+   "t": "Two candidates are nominated to succeed Christine Lagarde: Pablo Hernández de Cos of Spain and Klaas Knot of the Netherlands. Euro area finance ministers reviewed the nominations on 9 November. EU leaders aim to decide at their summit on 17–18 December.",
+   "why": "The winner will lead the ECB’s interest rate decisions after Lagarde leaves on 7 February 2027."
+  }
+ ]
+}
