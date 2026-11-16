@@ -1,0 +1,37 @@
+{
+"date":"2026-11-16T11:34:00Z",
+"effects":[
+{"dir":"down","label":"Peace talks","s":["reu"],"t":"A deal looks less certain after two claimed attacks on US sites in three days."},
+{"label":"Gulf states","s":["reu"],"t":"Bahrain accuses Iran of a pattern of hostile acts. Countries that host US forces face a higher risk of being hit."},
+{"dir":"mixed","label":"Oil","s":["oil"],"t":"Prices fell early on Monday because traders expect plenty of supply. A wider conflict could reverse that quickly."}
+],
+"event":[
+{"s":["reu","rfe"],"t":"On Sunday 15 November, Bahrain said its air defences intercepted and destroyed several Iranian air attacks before they reached their targets. Sirens and explosions were reported across the country."},
+{"s":["reu","rfe","it"],"t":"Iran’s Revolutionary Guards said they attacked a US military base in Bahrain in response to what they called hostile US actions. Iranian state media said six drones were aimed at a US air-defence radar at a helicopter base."},
+{"s":["reu","it"],"t":"It is the second such claim in three days. On 13 November the Guards said they had hit a US early-warning radar in Bahrain. The US military denied this and said it shot down two drones with no damage."},
+{"s":["it"],"t":"It is the first time since September that Bahrain’s air defences have had to stop attacks like this."},
+{"s":["cnbc"],"t":"There is still no deal to end the war. Reuters reported on Saturday that President Trump has said he might hold off from attacking Iran if there are no new provocations, while keeping the US naval blockade."}
+],
+"headline":"Iran says it attacked a US base in Bahrain; Bahrain says it stopped the attacks",
+"impact":[
+{"a":"oil","asset":"Oil","dir":"mixed","note":"More supply pulls prices down; attacks push risk up"},
+{"a":"gold","asset":"Gold","dir":"mixed","note":"Safe-haven demand rises when tensions do"},
+{"a":"airlines","asset":"Airlines & shipping","dir":"mixed","note":"Gulf routes stay risky"}
+],
+"live":true,
+"rev":"2026-11-16T11:34:00Z",
+"sh":"Iran claims attack on US base in Bahrain",
+"src":{
+"cnbc":{"n":"CNBC","t":"Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base","tier":"national","u":"https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"},
+"it":{"n":"Reuters (via The Irish Times)","t":"Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base","tier":"agency","u":"https://www.irishtimes.com/world/middle-east/2026/11/15/bahrain-intercepts-iranian-aerial-attacks-as-tehran-says-it-attacked-us-base/"},
+"oil":{"n":"Reuters (via CNBC)","t":"Oil prices fall on expectations of coming supply surplus","tier":"agency","u":"https://www.cnbc.com/amp/2026/11/16/oil-prices-fall-on-expectations-of-coming-supply-surplus.html"},
+"reu":{"n":"Reuters (via CNBC)","t":"Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base","tier":"agency","u":"https://www.cnbc.com/amp/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"},
+"rfe":{"n":"RFE/RL (US-funded)","t":"Bahrain Says It Intercepted Iranian Attacks As Tehran Claims Strike On US Base","tier":"state","u":"https://www.rferl.org/a/bahrain-said-its-air-defenses-intercepted-and-destroyed-several-iranian-aerial-attacks/33898951.html"}
+},
+"summary":"Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
+"updates":[
+{"at":"2026-11-16T11:34:00Z","d":"15 Nov 2026","key":true,"s":["reu","rfe"],"t":"Iran’s Revolutionary Guards say they attacked a US base in Bahrain with six drones. Bahrain says its air defences destroyed the incoming attacks.","top":true,"why":"It is the second claimed attack on a US site in Bahrain in three days."}
+],
+"watch":["Any US military response","More attacks on Bahrain or other Gulf states","Whether talks through mediators restart","Ship traffic and attacks near the Strait of Hormuz"],
+"why":"Bahrain hosts the US Navy’s Fifth Fleet, so an attack there is aimed directly at the US military. More attacks make a deal to end the war harder and raise the risk of new US strikes. That keeps the Strait of Hormuz oil route, and oil prices, under pressure."
+}
