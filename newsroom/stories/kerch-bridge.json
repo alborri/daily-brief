@@ -1,0 +1,114 @@
+{
+ "date": "2026-11-17T16:55:00Z",
+ "rev": "2026-11-17T16:55:00Z",
+ "topics": [
+  "Geopolitics"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 7,
+ "icon": "flame",
+ "live": true,
+ "ev": "Ukraine war",
+ "sh": "Ukraine hits Crimea bridge; Kyiv bridges struck",
+ "headline": "Ukraine collapses part of the bridge to Crimea as Russian strikes damage bridges in Kyiv",
+ "summary": "A Ukrainian strike brought down part of the Kerch Bridge, which links Russia to occupied Crimea, on the night of 16 to 17 November. Overnight Russian attacks damaged two main bridges in Kyiv and killed two people there, Ukrainian officials said.",
+ "why": "The Kerch Bridge is a key supply route for Russian troops and a symbol of Russia’s control of Crimea. The attacks come two days before Putin is due to meet Trump and Xi in Shenzhen, where the war may be discussed.",
+ "event": [
+  {
+   "s": [
+    "cnnk",
+    "nbck",
+    "abck"
+   ],
+   "t": "Ukraine attacked the Kerch Bridge for the second night in a row. Images checked by NBC News show a section of the road bridge collapsed into the water."
+  },
+  {
+   "s": [
+    "ajk",
+    "cnbck"
+   ],
+   "t": "Ukraine’s President Volodymyr Zelensky confirmed the attack and called it unprecedented."
+  },
+  {
+   "s": [
+    "ajk",
+    "abck"
+   ],
+   "t": "Traffic on the bridge was stopped. Crimea’s Russian-installed leader, Sergei Aksyonov, said a Ukrainian drone attack near Kerch killed two people."
+  },
+  {
+   "s": [
+    "nbck",
+    "cnnk",
+    "bbgk"
+   ],
+   "t": "In Kyiv, officials said overnight Russian attacks damaged and closed two of the city’s main bridges and killed two people."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Russian supply lines",
+   "s": [
+    "cnnk",
+    "cnbck"
+   ],
+   "t": "Road traffic to Crimea over the bridge is stopped."
+  },
+  {
+   "dir": "down",
+   "label": "Kyiv residents",
+   "s": [
+    "nbck"
+   ],
+   "t": "Two main river crossings in the capital are closed for repairs."
+  }
+ ],
+ "watch": [
+  "How long the Kerch Bridge stays closed",
+  "Russia’s response",
+  "Whether the war is raised at the Trump–Xi–Putin meeting on Thursday"
+ ],
+ "src": {
+  "cnnk": {
+   "n": "CNN",
+   "t": "Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea",
+   "tier": "intl",
+   "u": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk"
+  },
+  "nbck": {
+   "n": "NBC News",
+   "t": "Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike",
+   "tier": "national",
+   "u": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756"
+  },
+  "abck": {
+   "n": "ABC News",
+   "t": "Ukraine launches ‘unprecedented’ strike on Crimean bridge, Zelenskyy says",
+   "tier": "national",
+   "u": "https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512"
+  },
+  "ajk": {
+   "n": "Al Jazeera",
+   "t": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"
+  },
+  "cnbck": {
+   "n": "CNBC",
+   "t": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
+  },
+  "bbgk": {
+   "n": "Bloomberg",
+   "pay": true,
+   "t": "Ukraine Hits Crimean Bridge Ahead of Trump, Putin Meeting",
+   "tier": "intl",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-17/ukraine-attacks-crimean-bridge-dnipro-as-russia-strikes-kyiv"
+  }
+ }
+}

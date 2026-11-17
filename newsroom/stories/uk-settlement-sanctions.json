@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-17T16:55:00Z",
+ "rev": "2026-11-17T16:55:00Z",
+ "topics": [
+  "Politics",
+  "Geopolitics"
+ ],
+ "regions": [
+  "ME",
+  "Europe"
+ ],
+ "region": "ME",
+ "importance": 5,
+ "icon": "scale",
+ "live": false,
+ "ev": "Israel and the West Bank",
+ "sh": "UK sanctions Israeli settlement builders",
+ "headline": "UK sanctions eight Israeli firms building West Bank settlements and a group blocking Gaza aid",
+ "summary": "Britain imposed sanctions on Tuesday 17 November on eight Israeli construction and property companies that build settlements in the occupied West Bank. It also targeted Tzav 9, a group it accuses of blocking aid trucks to Gaza.",
+ "why": "It is Britain’s first concrete step since it said in September it would respond to faster settlement growth. The UK says it wants to keep a future Palestinian state possible. Relations between the UK and Israel have grown tense over the war in Gaza and settlement building.",
+ "event": [
+  {
+   "s": [
+    "reu",
+    "nat"
+   ],
+   "t": "The eight companies face asset freezes, and their directors can be banned from running companies in the UK."
+  },
+  {
+   "s": [
+    "gov",
+    "nat"
+   ],
+   "t": "Sanctions were also placed on Tzav 9, an activist group the UK says regularly blocks aid trucks carrying food, water and fuel into Gaza."
+  },
+  {
+   "s": [
+    "gov",
+    "ap"
+   ],
+   "t": "The UK Foreign Office says it is the first sanctions package since its September change of approach to Israeli actions in the West Bank."
+  },
+  {
+   "s": [
+    "reu",
+    "ap"
+   ],
+   "t": "Britain says the aim is to slow settlement growth and protect the possibility of a two-state solution."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Settlement builders",
+   "s": [
+    "reu",
+    "nat"
+   ],
+   "t": "Assets in the UK are frozen."
+  },
+  {
+   "label": "UK–Israel relations",
+   "s": [
+    "nat"
+   ],
+   "t": "Ties, already strained, face new pressure."
+  }
+ ],
+ "watch": [
+  "How Israel’s government responds",
+  "Whether other European countries take similar steps"
+ ],
+ "src": {
+  "gov": {
+   "n": "UK Government (GOV.UK)",
+   "t": "UK cracks down on companies building settlements in the West Bank and groups blocking aid access into Gaza",
+   "tier": "official",
+   "u": "https://www.gov.uk/government/news/uk-cracks-down-on-companies-building-settlements-in-the-west-bank-and-groups-blocking-aid-access-into-gaza"
+  },
+  "reu": {
+   "n": "Reuters (via Al-Monitor)",
+   "t": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
+   "tier": "agency",
+   "u": "https://www.al-monitor.com/originals/2026/11/britain-sanctions-israeli-settlement-firms-push-protect-two-state-solution"
+  },
+  "ap": {
+   "n": "AP (via WRAL)",
+   "t": "UK sanctions Israeli companies building West Bank settlements",
+   "tier": "agency",
+   "u": "https://www.wral.com/news/ap/8e4de-uk-sanctions-israeli-companies-building-west-bank-settlements/"
+  },
+  "nat": {
+   "n": "The National (UAE)",
+   "t": "UK imposes sanctions on companies building settlements in West Bank",
+   "tier": "national",
+   "u": "https://www.thenationalnews.com/news/uk/2026/11/17/uk-imposes-sanctions-on-companies-building-settlements-in-west-bank/"
+  },
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "UK sanctions eight Israeli construction firms over West Bank settlements",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid"
+  }
+ }
+}

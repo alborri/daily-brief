@@ -11,6 +11,17 @@
    "text": "Minutes of the Fed’s October meeting"
   },
   {
+   "from": "2026-11-18",
+   "t": "Economy",
+   "text": "Final euro area inflation for October (first estimate: 4.0%)"
+  },
+  {
+   "from": "2026-11-18",
+   "to": "2026-11-19",
+   "t": "Geopolitics",
+   "text": "APEC leaders’ meeting in Shenzhen"
+  },
+  {
    "from": "2026-11-19",
    "t": "Geopolitics",
    "text": "Trump, Xi and Putin are due to meet in Shenzhen"
@@ -57,9 +68,6 @@
  "corrections": [],
  "held": [
   {
-   "t": "Iran: a report that Iran’s foreign minister held talks in Muscat, Oman, on Tuesday. One source so far."
-  },
-  {
    "t": "Iran: a Euronews report that the US struck missile launchers in southern Iran on Sunday night. No second source and no US confirmation in the reports seen."
   },
   {
@@ -69,20 +77,26 @@
    "t": "Ukraine: a report that European leaders agreed a joint negotiating team on 13 November. One source so far."
   },
   {
-   "t": "Ukraine: reports that overnight Russian attacks damaged Kyiv’s metro and two bridges, and that about 800 drones flew towards Moscow. One source so far."
-  },
-  {
    "t": "ECB: reports that policymakers expect to raise rates in December and then pause. One source so far."
   },
   {
    "t": "China: reports that October industrial output and retail sales missed forecasts. One source so far."
   },
   {
-   "t": "Banks: a report that the EU cleared UniCredit’s takeover of Germany’s Commerzbank. One source so far."
+   "t": "Iran: a Times of Israel report of US airstrikes on Iran’s Qeshm Island. One source so far."
+  },
+  {
+   "t": "Iran: a Reuters report that the crew of a tanker is missing in the Strait of Hormuz. One source so far."
+  },
+  {
+   "t": "Nvidia: a Wall Street Journal report that Jensen Huang would be open to returning as chief executive. One source so far."
+  },
+  {
+   "t": "Nvidia: a CNN report that Jensen Huang will appear before Congress. One source so far."
   }
  ],
- "lastChange": "2026-11-17T12:30:00Z",
- "lastCheck": "2026-11-17T12:30:00Z",
- "note": "Full check of the news, under the new rule to publish every confirmed story. New stories: Nvidia and the tech sell-off, the US rule on AI chips, five EU countries’ Rwanda deportation plan, and new Canada–China tariff cuts. Updates: the Trump–Xi–Putin meeting and Iran.",
+ "lastChange": "2026-11-17T16:55:00Z",
+ "lastCheck": "2026-11-17T16:55:00Z",
+ "note": "New stories: Ukraine’s strike on the Kerch Bridge and Russian strikes on Kyiv’s bridges, UK sanctions on Israeli settlement builders, the Prague protest for public media, and EU approval of UniCredit’s Commerzbank takeover. Updates: Iran, the Trump–Xi–Putin meeting and Nvidia.",
  "schedule": "Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
 }

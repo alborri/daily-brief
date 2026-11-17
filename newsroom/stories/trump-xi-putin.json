@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-17T12:30:00Z",
+ "rev": "2026-11-17T16:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -262,6 +262,24 @@
    "t": "Trump heads to Asia for deals in Manila and Shenzhen and a first-ever nuclear meeting with Xi and Putin",
    "tier": "other",
    "u": "https://www.plataformamedia.com/en/2026/11/17/how-trump-hopes-to-use-asia-trip-to-reassert-authority/"
+  },
+  "reu4": {
+   "n": "Reuters (via The Star)",
+   "t": "Trump meets regional allies in Manila ahead of China visit; Thailand will eliminate tariffs on US exports under deal to be signed soon",
+   "tier": "agency",
+   "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/17/trump-meets-regional-allies-in-manila-ahead-of-china-visit-thailand-will-eliminate-tariffs-on-us-exports-under-deal-to-be-signed-soon"
+  },
+  "abc3": {
+   "n": "ABC News",
+   "t": "Trump Asia trip live updates: Trump and Quad leaders gather in Manila",
+   "tier": "national",
+   "u": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+  },
+  "afp3": {
+   "n": "AFP (via France 24)",
+   "t": "Trump, Thai PM to make joint trade statement in Manila",
+   "tier": "agency",
+   "u": "https://www.france24.com/en/live-news/20261117-trump-thai-pm-to-make-joint-trade-statement-in-manila"
   }
  },
  "updates": [
@@ -292,6 +310,17 @@
     "pm"
    ],
    "t": "Trump says he will also talk about Ukraine, Iran, the economy and trade with Xi and Putin. US officials had said the war in Ukraine was not on the agenda. China calls the meeting one of “groundbreaking significance”."
+  },
+  {
+   "at": "2026-11-17T16:55:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "reu4",
+    "abc3",
+    "afp3"
+   ],
+   "t": "In Manila, Trump held his first Quad meeting with the leaders of Japan, India and Australia. Their statement voiced “grave concerns” about economic coercion, including export restrictions, without naming a country. Trump also signed a trade statement with Thailand; the final deal is expected in the coming weeks.",
+   "why": "China has objected to the Quad as an effort to surround it, and the meeting comes two days before Trump’s talks with Xi."
   }
  ]
 }

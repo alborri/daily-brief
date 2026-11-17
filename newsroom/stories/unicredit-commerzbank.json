@@ -1,0 +1,91 @@
+{
+ "date": "2026-11-17T16:55:00Z",
+ "rev": "2026-11-17T16:55:00Z",
+ "topics": [
+  "Economy",
+  "Markets"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 5,
+ "icon": "bank",
+ "live": false,
+ "ev": "European bank mergers",
+ "sh": "EU clears UniCredit’s Commerzbank takeover",
+ "headline": "EU approves Italian bank UniCredit’s takeover of Germany’s Commerzbank",
+ "summary": "The European Commission approved on Monday 16 November, without conditions, UniCredit’s plan to take control of Commerzbank. It found the deal raises no competition problems in the EU.",
+ "why": "It would be one of the biggest cross-border bank deals in Europe and create a stronger European lender, a goal the EU supports. The takeover has faced resistance in Germany, where Commerzbank is one of the largest banks.",
+ "event": [
+  {
+   "s": [
+    "ec",
+    "dpa"
+   ],
+   "t": "The European Commission cleared the deal under EU merger rules on Monday 16 November, without asking for any changes."
+  },
+  {
+   "s": [
+    "dpa",
+    "eun"
+   ],
+   "t": "The European Central Bank had already approved the takeover in October."
+  },
+  {
+   "s": [
+    "eun"
+   ],
+   "t": "EU competition chief Teresa Ribera said “Europe needs stronger banks” that can compete and grow."
+  },
+  {
+   "s": [
+    "dpa",
+    "eun"
+   ],
+   "t": "UniCredit has pursued Commerzbank for more than two years, building up its stake despite opposition in Germany."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "up",
+   "label": "UniCredit",
+   "s": [
+    "dpa"
+   ],
+   "t": "A key approval for its takeover plan."
+  },
+  {
+   "label": "European banking",
+   "s": [
+    "ec",
+    "eun"
+   ],
+   "t": "A step toward bigger banks that work across EU borders."
+  }
+ ],
+ "watch": [
+  "When UniCredit completes the offer",
+  "The German government’s response"
+ ],
+ "src": {
+  "ec": {
+   "n": "European Commission",
+   "t": "Commission unconditionally approves UniCredit’s acquisition of Commerzbank",
+   "tier": "official",
+   "u": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2440"
+  },
+  "dpa": {
+   "n": "dpa (via Yahoo Finance)",
+   "t": "EU approves UniCredit’s takeover of Commerzbank",
+   "tier": "agency",
+   "u": "https://finance.yahoo.com/economy/policy/articles/eu-approves-unicredits-takeover-commerzbank-143401420.html"
+  },
+  "eun": {
+   "n": "Euronews",
+   "t": "EU clears UniCredit takeover of Germany’s Commerzbank",
+   "tier": "intl",
+   "u": "https://www.euronews.com/2026/11/16/eu-clears-unicredit-takeover-of-germanys-commerzbank"
+  }
+ }
+}

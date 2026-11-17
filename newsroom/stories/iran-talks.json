@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-17T12:30:00Z",
+ "rev": "2026-11-17T16:55:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -181,6 +181,48 @@
    "t": "Middle East conflict: Tanker incident near Hormuz as Vance rules out ‘forever war’",
    "tier": "national",
    "u": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
+  },
+  "reu3": {
+   "n": "Reuters (via U.S. News)",
+   "t": "Iran Attacks US Military Radar System in Bahrain With Drones",
+   "tier": "agency",
+   "u": "https://www.usnews.com/news/world/articles/2026-11-17/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors"
+  },
+  "nat2": {
+   "n": "The National (UAE)",
+   "t": "Oman discusses maritime security with Iran amid rising attacks in Strait of Hormuz",
+   "tier": "national",
+   "u": "https://www.thenationalnews.com/news/gulf/2026/11/17/iran-and-oman-discuss-maritime-security-amid-rising-attacks-in-strait-of-hormuz/"
+  },
+  "ap3": {
+   "n": "AP (via KSAT)",
+   "t": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
+   "tier": "agency",
+   "u": "https://www.ksat.com/business/2026/11/17/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain/"
+  },
+  "cnnd": {
+   "n": "CNN",
+   "t": "US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
+   "tier": "intl",
+   "u": "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb"
+  },
+  "hill": {
+   "n": "The Hill",
+   "t": "Trump on dirty bomb report: ‘We take it very seriously’",
+   "tier": "national",
+   "u": "https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/"
+  },
+  "n24": {
+   "n": "News24",
+   "t": "Trump warns Iran would ‘pay a price’ over reported dirty bomb plot in Washington",
+   "tier": "national",
+   "u": "https://www.news24.com/world/trump-warns-iran-would-pay-a-price-over-reported-dirty-bomb-plot-in-washington-20261117-0839"
+  },
+  "yhd": {
+   "n": "Yahoo News",
+   "t": "Trump Warns Iran Over Reported ‘Dirty Bomb’ Plot In Washington. Tehran Denies Allegations.",
+   "tier": "other",
+   "u": "https://www.yahoo.com/news/us/articles/trump-warns-iran-over-reported-135707578.html"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -239,6 +281,29 @@
     "gn"
    ],
    "t": "US Vice President JD Vance says the campaign against Iran will not become an endless war."
+  },
+  {
+   "at": "2026-11-17T16:55:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "reu3",
+    "nat2",
+    "ap3"
+   ],
+   "t": "The foreign ministers of Oman and Iran discussed how to keep shipping lanes in the Strait of Hormuz safe, Reuters and The National report. Egypt, Qatar, Saudi Arabia and the United Arab Emirates condemned Iran’s latest attack on Bahrain, the AP reports."
+  },
+  {
+   "at": "2026-11-17T16:55:00Z",
+   "d": "16–17 Nov 2026",
+   "key": true,
+   "s": [
+    "cnnd",
+    "hill",
+    "n24",
+    "yhd"
+   ],
+   "t": "CNN reported, citing seven US officials, that US intelligence shows Iran developing plans to attack senior officials in Washington with a “dirty bomb” or a chemical weapon. Trump said the US takes it very seriously and warned Iran would pay an unprecedented price. Iran’s foreign ministry called the report fabricated.",
+   "why": "A threat against Washington itself would take the conflict to a new level."
   }
  ],
  "watch": [

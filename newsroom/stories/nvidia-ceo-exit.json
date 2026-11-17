@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T12:30:00Z",
- "rev": "2026-11-17T12:30:00Z",
+ "rev": "2026-11-17T16:55:00Z",
  "topics": [
   "Markets"
  ],
@@ -120,6 +120,36 @@
    "t": "US stock futures slip ahead of Nvidia results; Fed speakers in focus",
    "tier": "agency",
    "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-105311659.html"
+  },
+  "afpn": {
+   "n": "AFP (via Yahoo Finance)",
+   "t": "Wall Street dips ahead of Nvidia’s first earnings since scandal",
+   "tier": "agency",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-dips-ahead-nvidias-153926954.html"
+  },
+  "yfl": {
+   "n": "Yahoo Finance",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings",
+   "tier": "national",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+  },
+  "stt": {
+   "n": "StockTitan",
+   "t": "Stock Market Today, November 17, 2026: Stocks Fall Before Nvidia’s Results",
+   "tier": "other",
+   "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
   }
- }
+ },
+ "updates": [
+  {
+   "at": "2026-11-17T16:55:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "afpn",
+    "yfl",
+    "stt"
+   ],
+   "t": "US stocks fell again on Tuesday before the results. At 15:15 GMT the S&P 500 was down 0.32%, the Dow 0.68% and the Nasdaq 0.16%, AFP reported, and the losses grew later in the morning."
+  }
+ ]
 }
