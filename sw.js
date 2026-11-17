@@ -2,7 +2,7 @@
    - The app page: network first (so updates arrive at once), saved copy when offline.
    - The news file: network first, saved copy when offline.
    - Icons, pictures and fonts: saved copy first. */
-const VERSION = "de079ed";
+const VERSION = "ee33ba1";
 const SHELL = "daily-brief-shell-" + VERSION;
 const DATA = "daily-brief-data-v1";
 const FONTS = "daily-brief-fonts-v1";

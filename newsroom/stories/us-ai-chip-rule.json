@@ -1,0 +1,90 @@
+{
+ "date": "2026-11-17T12:30:00Z",
+ "rev": "2026-11-17T12:30:00Z",
+ "topics": [
+  "Economy",
+  "Geopolitics"
+ ],
+ "regions": [
+  "US",
+  "China"
+ ],
+ "region": "US",
+ "importance": 7,
+ "icon": "chip",
+ "live": false,
+ "ev": "US chip export controls",
+ "sh": "US curbs China’s remote access to AI chips",
+ "headline": "US moves to stop Chinese firms from using American AI chips through data centres abroad",
+ "summary": "The US Commerce Department issued a rule on Monday 16 November that requires licences for advanced AI chips sent to data centres in five countries. The aim is to stop Chinese companies from using American chips remotely.",
+ "why": "Advanced chips are the key resource for building AI. The US wants to keep the most powerful ones away from China, and data centres in other countries had become a way around the existing rules. The new rule affects chip makers, cloud companies and several Asian economies.",
+ "event": [
+  {
+   "s": [
+    "bbg",
+    "jt"
+   ],
+   "t": "The interim rule requires data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to get a US licence before receiving advanced AI chips from Nvidia and other US makers."
+  },
+  {
+   "s": [
+    "tc",
+    "upi"
+   ],
+   "t": "Companies will also need a licence to send AI chips to data centres anywhere in the world if they may provide computing power to companies in China or other restricted countries."
+  },
+  {
+   "s": [
+    "bbg",
+    "jt"
+   ],
+   "t": "The rule follows closer scrutiny of US chip export policy after an alleged spying scandal involving Nvidia, Bloomberg reports."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Chip makers",
+   "s": [
+    "bbg"
+   ],
+   "t": "More licences can slow sales to data centres in the five countries."
+  },
+  {
+   "label": "US–China relations",
+   "t": "The rule comes days before President Trump is due to meet Xi Jinping in Shenzhen."
+  }
+ ],
+ "watch": [
+  "How China responds",
+  "Whether more countries are added to the licence list",
+  "Chip questions in Trump’s talks with Xi this week"
+ ],
+ "src": {
+  "bbg": {
+   "n": "Bloomberg",
+   "pay": true,
+   "t": "US Moves to Curb China’s Remote Access to Nvidia’s AI Chips",
+   "tier": "intl",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+  },
+  "jt": {
+   "n": "Bloomberg (via The Japan Times)",
+   "t": "U.S. moves to curb China’s remote access to Nvidia’s AI chips",
+   "tier": "intl",
+   "u": "https://www.japantimes.co.jp/business/2026/11/17/tech/us-china-nvidia-ai-chips/"
+  },
+  "tc": {
+   "n": "TechCrunch",
+   "t": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "tier": "specialist",
+   "u": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+  },
+  "upi": {
+   "n": "UPI",
+   "t": "Trump admin. unveils new rule to deny China’s access to U.S. AI chips",
+   "tier": "agency",
+   "u": "https://www.upi.com/Top_News/US/2026/11/17/AI-chip-restrictions-China-export/5701794902683"
+  }
+ }
+}

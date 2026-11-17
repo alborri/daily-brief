@@ -426,7 +426,7 @@ function markRead(s){
   setPref("seen", Object.assign({}, prefs.seen || {}, {[s.id]: last}));
 }
 const lastUpd = s => { const u = updIdx(s).map(i => s.ctx.tl[i].at).sort().pop(); return u && u > s.date ? u : s.date; };
-const isLive = s => !!s.live && (NOW - new Date(lastUpd(s))) < 48 * 36e5;
+const isLive = s => !!s.live && (NOW - new Date(lastUpd(s))) < 24 * 36e5;
 const LIVE = () => `<span class="live"><i aria-hidden="true"></i>${tr("live")}</span>`;
 const EV = s => txStory(s).ev || SH(s);
 const CLOCK = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`;

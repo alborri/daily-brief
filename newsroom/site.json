@@ -1,9 +1,24 @@
 {
  "calendar": [
   {
+   "from": "2026-11-17",
+   "t": "Markets",
+   "text": "Nvidia reports quarterly results after the US market closes"
+  },
+  {
+   "from": "2026-11-18",
+   "t": "Economy",
+   "text": "Minutes of the Fed’s October meeting"
+  },
+  {
    "from": "2026-11-19",
    "t": "Geopolitics",
    "text": "Trump, Xi and Putin are due to meet in Shenzhen"
+  },
+  {
+   "from": "2026-11-19",
+   "t": "Politics",
+   "text": "Spain: TV debate between Sánchez and Feijóo"
   },
   {
    "from": "2026-11-20",
@@ -52,10 +67,22 @@
   },
   {
    "t": "Ukraine: a report that European leaders agreed a joint negotiating team on 13 November. One source so far."
+  },
+  {
+   "t": "Ukraine: reports that overnight Russian attacks damaged Kyiv’s metro and two bridges, and that about 800 drones flew towards Moscow. One source so far."
+  },
+  {
+   "t": "ECB: reports that policymakers expect to raise rates in December and then pause. One source so far."
+  },
+  {
+   "t": "China: reports that October industrial output and retail sales missed forecasts. One source so far."
+  },
+  {
+   "t": "Banks: a report that the EU cleared UniCredit’s takeover of Germany’s Commerzbank. One source so far."
   }
  ],
- "lastChange": "2026-11-17T12:00:00Z",
- "lastCheck": "2026-11-17T12:00:00Z",
- "note": "Updates: Iran (a new claimed attack in Bahrain and a tanker hit by a mine), oil (steady on Tuesday morning) and the Trump–Xi–Putin meeting (Trump arrives in Manila). Nothing new confirmed on COP31, Spain, the Ukraine talks, the ECB, the Fed or the US midterms.",
+ "lastChange": "2026-11-17T12:30:00Z",
+ "lastCheck": "2026-11-17T12:30:00Z",
+ "note": "Full check of the news, under the new rule to publish every confirmed story. New stories: Nvidia and the tech sell-off, the US rule on AI chips, five EU countries’ Rwanda deportation plan, and new Canada–China tariff cuts. Updates: the Trump–Xi–Putin meeting and Iran.",
  "schedule": "Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
 }

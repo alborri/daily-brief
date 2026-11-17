@@ -1,0 +1,125 @@
+{
+ "date": "2026-11-17T12:30:00Z",
+ "rev": "2026-11-17T12:30:00Z",
+ "topics": [
+  "Markets"
+ ],
+ "regions": [
+  "US"
+ ],
+ "region": "US",
+ "importance": 8,
+ "icon": "chip",
+ "live": true,
+ "ev": "Nvidia leadership crisis",
+ "sh": "Nvidia reports as tech stocks slide",
+ "headline": "Nvidia reports its results after its CEO’s exit, as tech stocks slide",
+ "summary": "Nvidia, the main maker of AI chips, reports quarterly results after the US market closes on Tuesday 17 November. Its chief executive Jensen Huang resigned last week, and US tech stocks fell sharply on Monday.",
+ "why": "Nvidia makes most of the chips used to build artificial intelligence, so its results and its leadership affect the whole AI industry and a large part of the stock market. Many pension and savings funds hold its shares.",
+ "event": [
+  {
+   "s": [
+    "cbs",
+    "wapo",
+    "nbc"
+   ],
+   "t": "Jensen Huang resigned as Nvidia’s chief executive on Thursday 12 November, the company’s board said. It followed reports of affairs, including one with a woman US intelligence agencies suspect of spying for China."
+  },
+  {
+   "s": [
+    "wapo",
+    "aj"
+   ],
+   "t": "Chief financial officer Colette Kress is interim chief executive while the company looks for a permanent replacement."
+  },
+  {
+   "s": [
+    "cnn",
+    "bp"
+   ],
+   "t": "On Monday 16 November the S&P 500 fell 1.9% and the Nasdaq 2.5%. Nvidia shares fell 4.1% to $156.14, their lowest close since July 2025, CNN reports."
+  },
+  {
+   "s": [
+    "mf",
+    "reu"
+   ],
+   "t": "Nvidia publishes its quarterly results after the market closes on Tuesday. Investors see them as a test of the AI boom."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Tech stocks",
+   "s": [
+    "cnn",
+    "bp"
+   ],
+   "t": "Investors cut risk before the results, and chip and AI shares led Monday’s fall."
+  },
+  {
+   "dir": "mixed",
+   "label": "AI industry",
+   "s": [
+    "mf"
+   ],
+   "t": "Nvidia’s sales forecast will show whether demand for AI chips is still growing."
+  }
+ ],
+ "watch": [
+  "Nvidia’s results and sales forecast after Tuesday’s close",
+  "Who Nvidia chooses as its next chief executive",
+  "Whether the fall in tech shares spreads to other markets"
+ ],
+ "src": {
+  "cbs": {
+   "n": "CBS News",
+   "t": "Nvidia CEO Jensen Huang resigns in wake of affair with woman suspected of spying for China",
+   "tier": "national",
+   "u": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/"
+  },
+  "wapo": {
+   "n": "The Washington Post",
+   "pay": true,
+   "t": "Jensen Huang resigns as Nvidia CEO after affair with alleged spy",
+   "tier": "national",
+   "u": "https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/"
+  },
+  "nbc": {
+   "n": "NBC News",
+   "t": "Nvidia CEO Jensen Huang resigns after reports of affair and extramarital relationships",
+   "tier": "national",
+   "u": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
+  },
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+  },
+  "cnn": {
+   "n": "CNN",
+   "t": "Stocks slide to kick off major week for Wall Street",
+   "tier": "intl",
+   "u": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
+  },
+  "bp": {
+   "n": "Babypips",
+   "t": "Financial & Forex Market Recap: Nov. 16, 2026",
+   "tier": "other",
+   "u": "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-16"
+  },
+  "mf": {
+   "n": "The Motley Fool",
+   "t": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next.",
+   "tier": "other",
+   "u": "https://www.fool.com/investing/2026/11/17/stock-market-primed-for-explosive-week-nvidia-federal-reserve/"
+  },
+  "reu": {
+   "n": "Reuters (via Yahoo Finance)",
+   "t": "US stock futures slip ahead of Nvidia results; Fed speakers in focus",
+   "tier": "agency",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-105311659.html"
+  }
+ }
+}

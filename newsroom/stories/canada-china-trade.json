@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-17T12:30:00Z",
+ "rev": "2026-11-17T12:30:00Z",
+ "topics": [
+  "Economy"
+ ],
+ "regions": [
+  "China",
+  "Global"
+ ],
+ "region": "China",
+ "importance": 5,
+ "icon": "handshake",
+ "live": false,
+ "ev": "Canada–China trade",
+ "sh": "Canada and China cut more tariffs",
+ "headline": "Canada and China agree new tariff cuts as Xi meets Carney in Shenzhen",
+ "summary": "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney agreed on Tuesday 17 November to cut more tariffs, at talks in Shenzhen before the APEC summit. Canada is trying to depend less on trade with the US.",
+ "why": "Carney wants Canada to rely less on the US because of President Trump’s tariffs, and closer trade with China is a big part of that plan. The deal also shows China building ties with a close US ally just before Trump arrives in Shenzhen.",
+ "event": [
+  {
+   "s": [
+    "reu",
+    "afp",
+    "pmo"
+   ],
+   "t": "China will cut tariffs on about C$400 million of Canadian exports, including frozen pork, fish and seafood, Carney’s office said."
+  },
+  {
+   "s": [
+    "dpa",
+    "afp2"
+   ],
+   "t": "Canada will extend its tariff exemptions for some Chinese steel and aluminium products by two years and add more products, the German news agency dpa reported."
+  },
+  {
+   "s": [
+    "bbg",
+    "pmo"
+   ],
+   "t": "The deal builds on a trade truce the two leaders agreed in January. Canada says it has restored market access for more than 90% of the trade that had been hit by tariffs."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "up",
+   "label": "Canadian farmers and fishers",
+   "s": [
+    "reu"
+   ],
+   "t": "Lower Chinese tariffs on pork, fish and seafood."
+  },
+  {
+   "dir": "up",
+   "label": "Chinese steel and aluminium",
+   "s": [
+    "dpa"
+   ],
+   "t": "Tariff exemptions in Canada are extended."
+  }
+ ],
+ "watch": [
+  "Whether the US reacts to the deal",
+  "More trade deals at the APEC summit this week"
+ ],
+ "src": {
+  "reu": {
+   "n": "Reuters (via Investing.com)",
+   "t": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+   "tier": "agency",
+   "u": "https://www.investing.com/news/forex-news/canada-and-china-extend-trade-deals-as-xi-meets-carney-ahead-of-apec-summit-5031875"
+  },
+  "afp": {
+   "n": "AFP (via France 24)",
+   "t": "Canada, China agree further tariff cuts: PM Carney at APEC",
+   "tier": "agency",
+   "u": "https://www.france24.com/en/live-news/20261117-canada-china-agree-further-tariff-cuts-pm-carney-at-apec"
+  },
+  "afp2": {
+   "n": "AFP (via France 24)",
+   "t": "Canada, China agree further tariff cuts as leaders meet",
+   "tier": "agency",
+   "u": "https://www.france24.com/en/live-news/20261117-canada-china-agree-further-tariff-cuts-as-leaders-meet"
+  },
+  "pmo": {
+   "n": "Prime Minister of Canada",
+   "t": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture",
+   "tier": "official",
+   "u": "https://www.pm.gc.ca/en/news/news-releases/2026/11/17/prime-minister-carney-advances-canadas-strategic-partnership-china"
+  },
+  "dpa": {
+   "n": "dpa (via Bernama)",
+   "t": "China, Canada Agree Further Tariff Relief Amid US Trade Tensions",
+   "tier": "agency",
+   "u": "https://www.bernama.com/en/world/news.php?id=2635592"
+  },
+  "bbg": {
+   "n": "Bloomberg",
+   "pay": true,
+   "t": "China, Canada Expand Tariff Relief in Deepening Trade Thaw",
+   "tier": "intl",
+   "u": "https://bloomberg.com/news/articles/2026-11-17/china-canada-expand-tariff-relief-in-deepening-trade-thaw"
+  }
+ }
+}

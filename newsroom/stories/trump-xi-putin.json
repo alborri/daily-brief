@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-17T12:00:00Z",
+ "rev": "2026-11-17T12:30:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -250,6 +250,18 @@
    "t": "Trump heads to Asia ahead of high-stakes meeting with Xi and Putin",
    "tier": "national",
    "u": "https://www.nbcnews.com/world/asia/live-updates-trump-heads-asia-meeting-xi-putin-china-russia-rcna608953"
+  },
+  "wng": {
+   "n": "WORLD Radio",
+   "t": "Tuesday morning news: November 17, 2026",
+   "tier": "other",
+   "u": "https://wng.org/podcasts/tuesday-morning-news-november-17-2026-1794851862"
+  },
+  "pm": {
+   "n": "Plataforma Media",
+   "t": "Trump heads to Asia for deals in Manila and Shenzhen and a first-ever nuclear meeting with Xi and Putin",
+   "tier": "other",
+   "u": "https://www.plataformamedia.com/en/2026/11/17/how-trump-hopes-to-use-asia-trip-to-reassert-authority/"
   }
  },
  "updates": [
@@ -271,6 +283,15 @@
     "nbc"
    ],
    "t": "Trump arrives in Manila for the ASEAN summit, the first stop of his Asia trip. In Shenzhen he is also due to hold a separate meeting with Xi, NBC News reports."
+  },
+  {
+   "at": "2026-11-17T12:30:00Z",
+   "d": "16–17 Nov 2026",
+   "s": [
+    "wng",
+    "pm"
+   ],
+   "t": "Trump says he will also talk about Ukraine, Iran, the economy and trade with Xi and Putin. US officials had said the war in Ukraine was not on the agenda. China calls the meeting one of “groundbreaking significance”."
   }
  ]
 }

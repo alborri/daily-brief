@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-17T12:00:00Z",
+ "rev": "2026-11-17T12:30:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -169,6 +169,18 @@
    "t": "Live - Trump warns Iran of ‘unprecedented’ price for any threat to Washington",
    "tier": "intl",
    "u": "https://www.iranintl.com/en/liveblog/202611143682"
+  },
+  "nq": {
+   "n": "Newsquawk",
+   "t": "Newsquawk Daily European Opening News - 17th November 2026",
+   "tier": "specialist",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---17th-november-2026"
+  },
+  "gn": {
+   "n": "Gulf News",
+   "t": "Middle East conflict: Tanker incident near Hormuz as Vance rules out ‘forever war’",
+   "tier": "national",
+   "u": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -218,6 +230,15 @@
    ],
    "t": "Iran’s Revolutionary Guards say they sent drones at a US radar at Bahrain’s Sheikh Isa Air Base, and Bahrain reports a new attack. Iran’s army says a tanker caught fire after hitting a sea mine east of the Strait of Hormuz.",
    "why": "It is the third claimed attack on US sites in Bahrain in five days."
+  },
+  {
+   "at": "2026-11-17T12:30:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "nq",
+    "gn"
+   ],
+   "t": "US Vice President JD Vance says the campaign against Iran will not become an endless war."
   }
  ],
  "watch": [
