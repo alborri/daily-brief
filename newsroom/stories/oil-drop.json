@@ -88,7 +88,7 @@
    "note": "Cheaper energy"
   }
  ],
- "rev": "2026-11-17T12:00:00Z",
+ "rev": "2026-11-17T22:55:00Z",
  "sh": "Oil falls more than 3% on surplus outlook",
  "src": {
   "bah": {
@@ -150,6 +150,18 @@
    "t": "Brent Crude Oil Price: $91.66 Tuesday as Goldman Warns of a Glut, Bull $96, Bear $88",
    "tier": "other",
    "u": "https://financefeeds.com/brent-crude-oil-price-91-66-tuesday-goldman-glut-warning-bull-96-bear-88/"
+  },
+  "rig": {
+   "n": "Bloomberg (via Rigzone)",
+   "t": "Oil Prices Swing as Gulf Attacks Continue",
+   "tier": "intl",
+   "u": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/"
+  },
+  "ttn": {
+   "n": "Transport Topics",
+   "t": "Oil prices swing as vessel attacks reported around Hormuz",
+   "tier": "specialist",
+   "u": "https://www.ttnews.com/articles/oil-prices-vessel-attacks"
   }
  },
  "summary": "Brent crude settled at $92.44 a barrel on Monday 16 November, down $3.40 or about 3.5%. Traders expect more supply than demand as oil exports from the Middle East recover.",
@@ -184,6 +196,15 @@
     "ff2"
    ],
    "t": "Brent is steady on Tuesday at $92.61 at 09:10 GMT, up 17 cents, after dipping to $91.66 earlier in Asia. Reuters says the expected surplus balances worries about tanker attacks. Brent has fallen 22% so far this month."
+  },
+  {
+   "at": "2026-11-17T22:55:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "rig",
+    "ttn"
+   ],
+   "t": "Brent settled near $93 a barrel on Tuesday after swinging in a range of about $3, as attacks around the Strait of Hormuz offset forecasts of a supply surplus."
   }
  ],
  "watch": [

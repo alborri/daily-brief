@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-17T16:55:00Z",
+ "rev": "2026-11-17T22:55:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -223,6 +223,24 @@
    "t": "Trump Warns Iran Over Reported ‘Dirty Bomb’ Plot In Washington. Tehran Denies Allegations.",
    "tier": "other",
    "u": "https://www.yahoo.com/news/us/articles/trump-warns-iran-over-reported-135707578.html"
+  },
+  "kt": {
+   "n": "Khaleej Times",
+   "t": "US-Israel-Iran war live updates, November 17, 2026",
+   "tier": "national",
+   "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"
+  },
+  "npr2": {
+   "n": "NPR",
+   "t": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy’s 5th Fleet",
+   "tier": "national",
+   "u": "https://www.npr.org/sections/news/"
+  },
+  "eun3": {
+   "n": "Euronews",
+   "t": "US strikes targets in Qeshm Island after ships catch fire in Hormuz",
+   "tier": "intl",
+   "u": "https://www.euronews.com/"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -304,6 +322,18 @@
    ],
    "t": "CNN reported, citing seven US officials, that US intelligence shows Iran developing plans to attack senior officials in Washington with a “dirty bomb” or a chemical weapon. Trump said the US takes it very seriously and warned Iran would pay an unprecedented price. Iran’s foreign ministry called the report fabricated.",
    "why": "A threat against Washington itself would take the conflict to a new level."
+  },
+  {
+   "at": "2026-11-17T22:55:00Z",
+   "d": "17 Nov 2026",
+   "key": true,
+   "s": [
+    "kt",
+    "npr2",
+    "eun3"
+   ],
+   "t": "The US struck Iranian targets on Qeshm Island, in the Strait of Hormuz, on Tuesday, a US official said, according to Khaleej Times. NPR describes it as a response to Iran’s drone attack on Bahrain; Euronews links it to ships catching fire in the strait.",
+   "why": "It is a direct US military response, which raises the risk of a wider exchange."
   }
  ],
  "watch": [

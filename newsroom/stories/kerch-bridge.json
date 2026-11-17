@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T16:55:00Z",
- "rev": "2026-11-17T16:55:00Z",
+ "rev": "2026-11-17T22:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -109,6 +109,25 @@
    "t": "Ukraine Hits Crimean Bridge Ahead of Trump, Putin Meeting",
    "tier": "intl",
    "u": "https://www.bloomberg.com/news/articles/2026-11-17/ukraine-attacks-crimean-bridge-dnipro-as-russia-strikes-kyiv"
+  },
+  "nprk": {
+   "n": "NPR",
+   "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+   "tier": "national",
+   "u": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war"
   }
- }
+ },
+ "updates": [
+  {
+   "at": "2026-11-17T22:55:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "cnnk",
+    "nbck",
+    "abck",
+    "nprk"
+   ],
+   "t": "Russian officials called the strike a terrorist act and said a plan to repair the bridge will be drawn up, CNN and NBC News report. Russia said it shot down 1,441 Ukrainian drones overnight, a record, ABC News and NPR report."
+  }
+ ]
 }
