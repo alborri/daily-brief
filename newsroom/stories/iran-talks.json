@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-16T22:55:00Z",
+ "rev": "2026-11-17T12:00:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -151,6 +151,24 @@
    "t": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
    "tier": "national",
    "u": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
+  },
+  "abc2": {
+   "n": "ABC News",
+   "t": "Iran live updates: Bahrain reports new attack, IRGC says it targeted US radar",
+   "tier": "national",
+   "u": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071&entryId=138164407"
+  },
+  "cbs": {
+   "n": "CBS News",
+   "t": "Live Updates: Iran claims new attack on U.S. radar system in Bahrain and says tanker hit near Strait of Hormuz",
+   "tier": "national",
+   "u": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
+  },
+  "ii": {
+   "n": "Iran International",
+   "t": "Live - Trump warns Iran of ‘unprecedented’ price for any threat to Washington",
+   "tier": "intl",
+   "u": "https://www.iranintl.com/en/liveblog/202611143682"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -188,6 +206,18 @@
    ],
    "t": "A third US aircraft carrier, the USS Theodore Roosevelt, has arrived in the Middle East, Euronews and The National report. Iran’s Revolutionary Guards now say six vessels have caught fire in the Strait of Hormuz since Sunday. The National says these claims could not be independently verified.",
    "why": "More US forces in the region and new claims at sea raise the risk of a wider conflict."
+  },
+  {
+   "at": "2026-11-17T12:00:00Z",
+   "d": "17 Nov 2026",
+   "key": true,
+   "s": [
+    "abc2",
+    "cbs",
+    "ii"
+   ],
+   "t": "Iran’s Revolutionary Guards say they sent drones at a US radar at Bahrain’s Sheikh Isa Air Base, and Bahrain reports a new attack. Iran’s army says a tanker caught fire after hitting a sea mine east of the Strait of Hormuz.",
+   "why": "It is the third claimed attack on US sites in Bahrain in five days."
   }
  ],
  "watch": [

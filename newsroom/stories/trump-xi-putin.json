@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-16T22:55:00Z",
+ "rev": "2026-11-17T12:00:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -232,6 +232,24 @@
    "t": "Trump Heads to Philippines, China for Trade, Defense Talks",
    "tier": "other",
    "u": "https://www.theepochtimes.com/us/trump-heads-to-philippines-china-for-trade-defense-talks-6125664"
+  },
+  "cbs": {
+   "n": "CBS News",
+   "t": "Trump arrives in Asia ahead of summit with Putin and Xi, possible meeting with Kim Jong Un",
+   "tier": "national",
+   "u": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+  },
+  "npr": {
+   "n": "NPR",
+   "t": "Trump arrives in Philippines to kick off Asia trip",
+   "tier": "national",
+   "u": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
+  },
+  "nbc": {
+   "n": "NBC News",
+   "t": "Trump heads to Asia ahead of high-stakes meeting with Xi and Putin",
+   "tier": "national",
+   "u": "https://www.nbcnews.com/world/asia/live-updates-trump-heads-asia-meeting-xi-putin-china-russia-rcna608953"
   }
  },
  "updates": [
@@ -243,6 +261,16 @@
     "ep"
    ],
    "t": "Trump leaves Washington for Asia. He is due at the ASEAN summit in Manila first, then at the APEC summit in Shenzhen, where the three-way meeting is planned for Thursday."
+  },
+  {
+   "at": "2026-11-17T12:00:00Z",
+   "d": "17 Nov 2026",
+   "s": [
+    "cbs",
+    "npr",
+    "nbc"
+   ],
+   "t": "Trump arrives in Manila for the ASEAN summit, the first stop of his Asia trip. In Shenzhen he is also due to hold a separate meeting with Xi, NBC News reports."
   }
  ]
 }
