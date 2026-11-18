@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-18T04:55:00Z",
+ "rev": "2026-11-18T10:55:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -253,6 +253,24 @@
    "t": "US-Iran tensions: Trump warns Iran of ‘major price’ as Tehran denies dirty bomb plot",
    "tier": "national",
    "u": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
+  },
+  "apy": {
+   "n": "AP (via Yahoo News)",
+   "t": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/world/articles/iran-widens-gulf-attacks-firing-093418476.html"
+  },
+  "rte": {
+   "n": "RTÉ (with agencies)",
+   "t": "Iran attacks Kuwait and Bahrain after US strike on Qeshm Island",
+   "tier": "national",
+   "u": "https://www.rte.ie/news/middle-east/2026/1118/1599631-iran-us/"
+  },
+  "a1": {
+   "n": "Reuters (via AsiaOne)",
+   "t": "Iran attacks US bases in Gulf countries despite diplomatic efforts",
+   "tier": "agency",
+   "u": "https://www.asiaone.com/world/iran-attacks-us-bases-gulf-countries-despite-diplomatic-efforts"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -355,6 +373,18 @@
     "gn2"
    ],
    "t": "An Iranian official confirmed the US strike on Qeshm Island. Gulf News reports that US jets hit a Revolutionary Guards missile site there."
+  },
+  {
+   "at": "2026-11-18T10:55:00Z",
+   "d": "18 Nov 2026",
+   "key": true,
+   "s": [
+    "apy",
+    "rte",
+    "a1"
+   ],
+   "t": "Iran fired at a US air base in Kuwait and several times at Bahrain early on Wednesday, after the US strike on Qeshm. Gulf countries said they intercepted missiles and drones from Iran and its Houthi allies in Yemen.",
+   "why": "Iran is widening its attacks to more Gulf states, which raises the risk for the region and for oil supplies."
   }
  ],
  "watch": [

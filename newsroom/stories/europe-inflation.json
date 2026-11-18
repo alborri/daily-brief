@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-18T10:55:00Z",
+ "rev": "2026-11-18T10:55:00Z",
+ "topics": [
+  "Economy"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 6,
+ "icon": "chart",
+ "live": false,
+ "ev": "Inflation in Europe",
+ "sh": "Inflation climbs in euro area and UK",
+ "headline": "Inflation rises to 4.0% in the euro area and 3.6% in the UK, driven by energy",
+ "summary": "Eurostat confirmed on Wednesday 18 November that euro area inflation rose to 4.0% in October, up from 3.8% in September. UK inflation rose to 3.6% from 3.5%, the Office for National Statistics said the same day.",
+ "why": "When prices rise faster, household budgets are squeezed and central banks are less likely to cut interest rates. Energy prices are the main driver in both the euro area and the UK.",
+ "event": [
+  {
+   "s": [
+    "es"
+   ],
+   "t": "Euro area annual inflation was 4.0% in October, up from 3.8% in September and 2.1% a year earlier, Eurostat said."
+  },
+  {
+   "s": [
+    "esx"
+   ],
+   "t": "In Eurostat’s first estimate, energy prices were 20.8% higher than a year earlier, the biggest driver. Services prices rose 3.3%."
+  },
+  {
+   "s": [
+    "ons",
+    "fn"
+   ],
+   "t": "In the UK, consumer prices rose 3.6% in the year to October, up from 3.5%, the Office for National Statistics said. Fuel prices were again a major cause. Core inflation, which leaves out energy and food, was 2.8%."
+  },
+  {
+   "s": [
+    "ec"
+   ],
+   "t": "The European Commission expects euro area inflation to peak above 4% between late 2026 and early 2027 and then ease, it said in its autumn forecast on 17 November."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Households",
+   "s": [
+    "es",
+    "ons"
+   ],
+   "t": "Prices are rising faster, which squeezes budgets."
+  },
+  {
+   "dir": "mixed",
+   "label": "Interest rates",
+   "t": "Higher inflation makes rate cuts by the European Central Bank and the Bank of England less likely."
+  }
+ ],
+ "watch": [
+  "The European Central Bank’s next rate decision",
+  "The Bank of England’s next rate decision",
+  "Whether energy prices keep rising"
+ ],
+ "src": {
+  "es": {
+   "n": "Eurostat",
+   "t": "Annual inflation up to 4.0% in the euro area",
+   "tier": "official",
+   "u": "https://ec.europa.eu/eurostat/news/euro-indicators"
+  },
+  "esx": {
+   "n": "Eurostat (on X)",
+   "t": "Euro area inflation expected to be at 4.0% in October 2026 (flash estimate)",
+   "tier": "official",
+   "u": "https://x.com/EU_Eurostat/status/2117919796272783523"
+  },
+  "ons": {
+   "n": "Office for National Statistics (UK)",
+   "t": "Consumer price inflation, UK: October 2026",
+   "tier": "official",
+   "u": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+  },
+  "fn": {
+   "n": "Financial News",
+   "t": "UK inflation rises to 3.6% in October as diesel hits record price",
+   "tier": "other",
+   "u": "https://www.financial-news.co.uk/uk-inflation-rises-to-3-6-in-october-as-diesel/"
+  },
+  "ec": {
+   "n": "European Commission",
+   "t": "Autumn Economic Forecast: continued growth amid higher inflation",
+   "tier": "official",
+   "u": "https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en"
+  }
+ }
+}

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-17T16:55:00Z",
+ "rev": "2026-11-18T10:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -280,6 +280,24 @@
    "t": "Trump, Thai PM to make joint trade statement in Manila",
    "tier": "agency",
    "u": "https://www.france24.com/en/live-news/20261117-trump-thai-pm-to-make-joint-trade-statement-in-manila"
+  },
+  "cnnl": {
+   "n": "CNN",
+   "t": "APEC summit latest: Xi breaks precedent by meeting Trump on arrival in China",
+   "tier": "intl",
+   "u": "https://edition.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+  },
+  "cnbct": {
+   "n": "CNBC",
+   "t": "Trump lands in China for historic meeting with Xi, Putin",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+  },
+  "ani": {
+   "n": "ANI (via The Tribune)",
+   "t": "Trump arrives in Shenzhen for APEC summit and trilateral meet with Xi-Putin",
+   "tier": "agency",
+   "u": "https://www.tribuneindia.com/news/apec-summit-2026/trump-arrives-in-shenzhen-for-apec-summit-and-trilateral-meet-with-xi-putin"
   }
  },
  "updates": [
@@ -321,6 +339,17 @@
    ],
    "t": "In Manila, Trump held his first Quad meeting with the leaders of Japan, India and Australia. Their statement voiced “grave concerns” about economic coercion, including export restrictions, without naming a country. Trump also signed a trade statement with Thailand; the final deal is expected in the coming weeks.",
    "why": "China has objected to the Quad as an effort to surround it, and the meeting comes two days before Trump’s talks with Xi."
+  },
+  {
+   "at": "2026-11-18T10:55:00Z",
+   "d": "18 Nov 2026",
+   "key": true,
+   "s": [
+    "cnnl",
+    "cnbct",
+    "ani"
+   ],
+   "t": "Trump arrived in Shenzhen on Wednesday and was greeted at the airport by Xi Jinping himself, which CNN calls a break with precedent. Xi opened the APEC summit with calls for free trade and more cooperation on artificial intelligence, CNBC reports."
   }
  ]
 }

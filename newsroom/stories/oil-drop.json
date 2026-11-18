@@ -88,7 +88,7 @@
    "note": "Cheaper energy"
   }
  ],
- "rev": "2026-11-17T22:55:00Z",
+ "rev": "2026-11-18T10:55:00Z",
  "sh": "Oil falls more than 3% on surplus outlook",
  "src": {
   "bah": {
@@ -162,6 +162,25 @@
    "t": "Oil prices swing as vessel attacks reported around Hormuz",
    "tier": "specialist",
    "u": "https://www.ttnews.com/articles/oil-prices-vessel-attacks"
+  },
+  "bbgo": {
+   "n": "Bloomberg",
+   "pay": true,
+   "t": "Oil Extends Drop as Supply Recovery Eclipses Gulf Flare-Ups",
+   "tier": "intl",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18"
+  },
+  "te": {
+   "n": "Trading Economics",
+   "t": "Brent oil - Price - Chart - Historical Data - News",
+   "tier": "other",
+   "u": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  },
+  "nqo": {
+   "n": "Newsquawk",
+   "t": "Newsquawk Daily European Equity Opening News - 18th November 2026",
+   "tier": "specialist",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---18th-november-2026"
   }
  },
  "summary": "Brent crude settled at $92.44 a barrel on Monday 16 November, down $3.40 or about 3.5%. Traders expect more supply than demand as oil exports from the Middle East recover.",
@@ -205,6 +224,16 @@
     "ttn"
    ],
    "t": "Brent settled near $93 a barrel on Tuesday after swinging in a range of about $3, as attacks around the Strait of Hormuz offset forecasts of a supply surplus."
+  },
+  {
+   "at": "2026-11-18T10:55:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "bbgo",
+    "te",
+    "nqo"
+   ],
+   "t": "Brent fell below $92 a barrel on Wednesday morning, as recovering supplies and higher US stockpiles outweighed new fighting in the Gulf, Bloomberg reports."
   }
  ],
  "watch": [

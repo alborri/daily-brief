@@ -67,7 +67,7 @@
  ],
  "headline": "COP31 enters its final week with countries split over fossil fuels and money",
  "live": true,
- "rev": "2026-11-16T16:50:00Z",
+ "rev": "2026-11-18T10:55:00Z",
  "sh": "COP31 enters final week, still split",
  "src": {
   "can": {
@@ -119,6 +119,24 @@
    "t": "First draft of COP31 deal signals tough negotiations to come",
    "tier": "agency",
    "u": "https://www.yahoo.com/news/articles/first-draft-cop31-deal-signals-140910867.html"
+  },
+  "arab": {
+   "n": "AFP (via Arab News)",
+   "t": "Tensions rise over COP31 draft deal",
+   "tier": "agency",
+   "u": "https://www.arabnews.com/middle-east/tensions-rise-over-cop31-draft-deal-3012534"
+  },
+  "rep": {
+   "n": "Report.az",
+   "t": "COP31 ministers discuss 2030 climate goals in Antalya",
+   "tier": "national",
+   "u": "https://report.az/en/ecology/cop31-ministers-discuss-2030-climate-goals-in-antalya"
+  },
+  "rio": {
+   "n": "The Rio Times",
+   "t": "Antalya Climate Summit Faces a Divided Draft",
+   "tier": "other",
+   "u": "https://www.riotimesonline.com/cop31-ministers-take-up-divided-draft-cover-decision/"
   }
  },
  "summary": "Ministers have taken over the UN climate talks in Antalya, which are due to end on Friday 20 November. Countries still disagree on money, on fossil fuels, and even on whether to issue a main summit decision.",
@@ -146,6 +164,16 @@
    ],
    "t": "A first draft of the summit’s main text is published. It calls for faster action to move away from coal, oil and gas, and for electricity to reach 35% of final energy use by 2035. Nearly 200 countries still have to approve it.",
    "why": "The draft is the basis for the bargaining before Friday’s deadline."
+  },
+  {
+   "at": "2026-11-18T10:55:00Z",
+   "d": "17–18 Nov 2026",
+   "s": [
+    "arab",
+    "rep",
+    "rio"
+   ],
+   "t": "EU climate chief Wopke Hoekstra warned that the 18-page draft is too broad and reopens old fights. COP31 president Murat Kurum said a second draft, reflecting countries’ feedback, would come on 18 November."
   }
  ],
  "watch": [
