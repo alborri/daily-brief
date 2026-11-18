@@ -1,0 +1,104 @@
+{
+ "date": "2026-11-18T16:55:00Z",
+ "rev": "2026-11-18T16:55:00Z",
+ "topics": [
+  "Geopolitics"
+ ],
+ "regions": [
+  "ME"
+ ],
+ "region": "ME",
+ "importance": 6,
+ "icon": "flag",
+ "live": false,
+ "ev": "Gaza ceasefire",
+ "sh": "Board of Peace warns Gaza truce at risk",
+ "headline": "Trump’s Board of Peace warns the Gaza ceasefire could collapse and faults Israel and Hamas",
+ "summary": "The US-led Board of Peace, which oversees the Gaza ceasefire, told the UN Security Council that the truce is in danger of collapse. Its report, made public on 18 November, says both Israel and Hamas have failed to meet their commitments.",
+ "why": "The ceasefire has held for about 13 months, but the war has not formally ended and most people in Gaza still live in ruins or tents. If the truce collapses, full-scale fighting could resume.",
+ "event": [
+  {
+   "s": [
+    "reu",
+    "aj"
+   ],
+   "t": "The board’s report to the UN Security Council says Israel and Hamas have both fallen short of their commitments under the 2025 ceasefire deal, leaving people in Gaza in dire conditions."
+  },
+  {
+   "s": [
+    "reu",
+    "sana"
+   ],
+   "t": "It warns that the gap between what was agreed and what is happening on the ground is the main risk to the truce, citing continued military activity, limits on aid and delays in setting up a civilian administration."
+  },
+  {
+   "s": [
+    "aj",
+    "an"
+   ],
+   "t": "The board says Palestinians face another winter in tents and rubble, and urges the Security Council to support the deal."
+  },
+  {
+   "s": [
+    "reu",
+    "it"
+   ],
+   "t": "Senior Hamas official Basem Naim called the report disinformation and accused the board of covering for Israel."
+  }
+ ],
+ "effects": [
+  {
+   "label": "People in Gaza",
+   "s": [
+    "aj",
+    "reu"
+   ],
+   "t": "Winter in tents, with aid still limited."
+  },
+  {
+   "dir": "down",
+   "label": "Ceasefire",
+   "s": [
+    "reu"
+   ],
+   "t": "The board says the truce cannot last if nothing changes on the ground."
+  }
+ ],
+ "watch": [
+  "The Security Council meeting on the report at the end of November",
+  "How Israel responds",
+  "Whether a civilian administration for Gaza is set up"
+ ],
+ "src": {
+  "reu": {
+   "n": "Reuters (via U.S. News)",
+   "t": "Trump’s Board of Peace Faults Israel and Hamas for Failure to End Gaza War",
+   "tier": "agency",
+   "u": "https://www.usnews.com/news/world/articles/2026-11-18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war"
+  },
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action"
+  },
+  "an": {
+   "n": "Arab News",
+   "t": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action",
+   "tier": "national",
+   "u": "https://www.arabnews.pk/middle-east/board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action-3007337"
+  },
+  "it": {
+   "n": "Reuters (via The Irish Times)",
+   "t": "Trump’s Board of Peace accuses Israel and Hamas of failing to end war in Gaza",
+   "tier": "agency",
+   "u": "https://www.irishtimes.com/world/middle-east/2026/11/18/trumps-board-of-peace-accuses-israel-and-hamas-of-failing-to-end-war-in-gaza/"
+  },
+  "sana": {
+   "n": "SANA (Syrian state news agency)",
+   "t": "Board of Peace warns Gaza ceasefire risks collapse without urgent action",
+   "tier": "state",
+   "u": "https://sana.sy/en/international/2359656/"
+  }
+ }
+}

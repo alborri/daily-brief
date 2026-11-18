@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T16:55:00Z",
- "rev": "2026-11-18T04:55:00Z",
+ "rev": "2026-11-18T16:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -126,6 +126,18 @@
    "t": "Overnight Russian attack on Kyiv: infrastructure and bridges damaged, water and heating disrupted, one injured",
    "tier": "national",
    "u": "https://www.pravda.com.ua/eng/news/2026/11/17/8063203/index.amp"
+  },
+  "mt": {
+   "n": "The Moscow Times",
+   "t": "Ukrainian Drones Target Krasnodar Region Refineries",
+   "tier": "intl",
+   "u": "https://www.themoscowtimes.com/2026/11/18/ukrainian-drones-target-krasnodar-region-refineries-a94294"
+  },
+  "nv": {
+   "n": "The New Voice of Ukraine",
+   "t": "Fires break out at two major Krasnodar Krai oil refineries",
+   "tier": "national",
+   "u": "https://english.nv.ua/nation/ukrainian-uavs-spark-fires-at-two-krasnodar-oil-plants-50660223.html"
   }
  },
  "updates": [
@@ -139,6 +151,15 @@
     "nprk"
    ],
    "t": "Russian officials called the strike a terrorist act and said a plan to repair the bridge will be drawn up, CNN and NBC News report. Russia said it shot down 1,441 Ukrainian drones overnight, a record, ABC News and NPR report."
+  },
+  {
+   "at": "2026-11-18T16:55:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "mt",
+    "nv"
+   ],
+   "t": "Overnight, Ukrainian drones caused fires at two industrial sites in Russia’s Krasnodar region, which local reports name as the Afipsky and Ilsky oil refineries. Regional officials said four people were injured."
   }
  ],
  "corrections": [

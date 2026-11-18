@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-18T10:55:00Z",
+ "rev": "2026-11-18T16:55:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -271,6 +271,30 @@
    "t": "Iran attacks US bases in Gulf countries despite diplomatic efforts",
    "tier": "agency",
    "u": "https://www.asiaone.com/world/iran-attacks-us-bases-gulf-countries-despite-diplomatic-efforts"
+  },
+  "oo": {
+   "n": "Reuters (via Oman Observer)",
+   "t": "Iran fires at Kuwait after US strike on Iranian island",
+   "tier": "agency",
+   "u": "https://www.omanobserver.om/article/1199879/world/region/iran-fires-at-kuwait-after-us-strike-on-iranian-island"
+  },
+  "spec": {
+   "n": "AP (via Spectrum News)",
+   "t": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait, sites in Bahrain",
+   "tier": "agency",
+   "u": "https://spectrumlocalnews.com/tx/austin/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain"
+  },
+  "gn3": {
+   "n": "Gulf News",
+   "t": "Gulf Crisis Deepens: Iran Targets Bahrain, ADNOC Vessel Attacked, US Responds with Strikes",
+   "tier": "national",
+   "u": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
+  },
+  "abc4": {
+   "n": "ABC News",
+   "t": "Iran live updates: US conducts airstrikes on Qeshm Island, US military official says",
+   "tier": "national",
+   "u": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -385,6 +409,17 @@
    ],
    "t": "Iran fired at a US air base in Kuwait and several times at Bahrain early on Wednesday, after the US strike on Qeshm. Gulf countries said they intercepted missiles and drones from Iran and its Houthi allies in Yemen.",
    "why": "Iran is widening its attacks to more Gulf states, which raises the risk for the region and for oil supplies."
+  },
+  {
+   "at": "2026-11-18T16:55:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "oo",
+    "spec",
+    "gn3",
+    "abc4"
+   ],
+   "t": "It is Iran’s first attack on Kuwait since September, Reuters reports; Kuwait says it intercepted the drones, and Bahrain issued two shelter alerts. A ship of the UAE’s state-owned ADNOC L&S was attacked in the Strait of Hormuz, the company confirmed. US Secretary of State Marco Rubio said he did not see an imminent threat to Washington."
   }
  ],
  "watch": [

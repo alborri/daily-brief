@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-18T10:55:00Z",
+ "rev": "2026-11-18T16:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -298,6 +298,18 @@
    "t": "Trump arrives in Shenzhen for APEC summit and trilateral meet with Xi-Putin",
    "tier": "agency",
    "u": "https://www.tribuneindia.com/news/apec-summit-2026/trump-arrives-in-shenzhen-for-apec-summit-and-trilateral-meet-with-xi-putin"
+  },
+  "mfa": {
+   "n": "Ministry of Foreign Affairs of China",
+   "t": "President Xi Jinping Meets with Russian President Vladimir Putin",
+   "tier": "official",
+   "u": "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261118_12062204.html"
+  },
+  "eunx": {
+   "n": "Euronews",
+   "t": "China’s Xi and Russia’s Putin hold talks on eve of three-way summit with Trump",
+   "tier": "intl",
+   "u": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
   }
  },
  "updates": [
@@ -350,6 +362,15 @@
     "ani"
    ],
    "t": "Trump arrived in Shenzhen on Wednesday and was greeted at the airport by Xi Jinping himself, which CNN calls a break with precedent. Xi opened the APEC summit with calls for free trade and more cooperation on artificial intelligence, CNBC reports."
+  },
+  {
+   "at": "2026-11-18T16:55:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "mfa",
+    "eunx"
+   ],
+   "t": "Xi Jinping and Vladimir Putin met in Shenzhen on Wednesday, the day before the three-way meeting. China’s foreign ministry says Putin backed working with China on a “multipolar” world and a fairer global governance system."
   }
  ]
 }

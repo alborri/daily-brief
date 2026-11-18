@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T22:55:00Z",
- "rev": "2026-11-18T04:55:00Z",
+ "rev": "2026-11-18T16:55:00Z",
  "topics": [
   "Markets"
  ],
@@ -220,6 +220,24 @@
    "t": "Kospi jumps over 3%; Asian markets rebound as Nvidia forecast lifts sentiment",
    "tier": "national",
    "u": "https://www.tradingview.com/news/cnbctv:352a14e2e094b:0/"
+  },
+  "yfw": {
+   "n": "Yahoo Finance",
+   "t": "Stock market today: S&P 500, Dow slide as Nvidia clears hurdle",
+   "tier": "national",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+  },
+  "cnbcm": {
+   "n": "CNBC",
+   "t": "Stocks making the biggest moves Wednesday: Nvidia, Take-Two Interactive, Lowe’s & more",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html"
+  },
+  "bnn": {
+   "n": "AP (via BNN Bloomberg)",
+   "t": "Wall Street wobbles as Nvidia and other AI stocks keep swinging sharply",
+   "tier": "agency",
+   "u": "https://www.bnnbloomberg.ca/markets/2026/11/18/us-futures-point-higher-led-by-rebound-for-nvidia/"
   }
  },
  "updates": [
@@ -276,6 +294,16 @@
     "c18"
    ],
    "t": "In Asia on Wednesday, South Korea’s Kospi led early gains as chipmakers rose on Nvidia’s forecast, CNBC reports."
+  },
+  {
+   "at": "2026-11-18T16:55:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "yfw",
+    "cnbcm",
+    "bnn"
+   ],
+   "t": "Nvidia shares rose early on Wednesday but the gains faded and the stock turned lower, as Wall Street kept swinging on doubts about the AI boom."
   }
  ]
 }
