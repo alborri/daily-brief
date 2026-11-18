@@ -67,7 +67,7 @@
  ],
  "headline": "COP31 enters its final week with countries split over fossil fuels and money",
  "live": true,
- "rev": "2026-11-18T10:55:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "sh": "COP31 enters final week, still split",
  "src": {
   "can": {
@@ -137,6 +137,12 @@
    "t": "Antalya Climate Summit Faces a Divided Draft",
    "tier": "other",
    "u": "https://www.riotimesonline.com/cop31-ministers-take-up-divided-draft-cover-decision/"
+  },
+  "unn2": {
+   "n": "UN News",
+   "t": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+   "tier": "official",
+   "u": "https://news.un.org/en/story/2026/11/1168833"
   }
  },
  "summary": "Ministers have taken over the UN climate talks in Antalya, which are due to end on Friday 20 November. Countries still disagree on money, on fossil fuels, and even on whether to issue a main summit decision.",
@@ -174,6 +180,15 @@
     "rio"
    ],
    "t": "EU climate chief Wopke Hoekstra warned that the 18-page draft is too broad and reopens old fights. COP31 president Murat Kurum said a second draft, reflecting countries’ feedback, would come on 18 November."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "unn2",
+    "rio"
+   ],
+   "t": "Two days before the planned close, ministers were still divided over climate finance and how fast to move away from fossil fuels, UN News reports. Countries launched a new review of whether climate promises are being kept, and observers expect the talks to run at least one night past Friday’s deadline."
   }
  ],
  "watch": [

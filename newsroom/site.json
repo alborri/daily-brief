@@ -22,6 +22,11 @@
    "text": "Spain: TV debate between Sánchez and Feijóo"
   },
   {
+   "from": "2026-11-19",
+   "t": "Markets",
+   "text": "Anthropic shares start trading on Nasdaq"
+  },
+  {
    "from": "2026-11-20",
    "t": "Climate",
    "text": "COP31 is due to end in Antalya"
@@ -30,6 +35,11 @@
    "from": "2026-11-29",
    "t": "Politics",
    "text": "Spain’s general election"
+  },
+  {
+   "from": "2026-12-01",
+   "t": "Politics",
+   "text": "Jensen Huang questioned by three US House committees"
   },
   {
    "from": "2026-12-08",
@@ -86,17 +96,29 @@
    "t": "Israel: a Channel 12 report, carried by other outlets, that aides to Prime Minister Netanyahu gave police tips that led to arrests of Arab party workers on election day. Not yet independently confirmed."
   },
   {
-   "t": "Nvidia: an NPR report that Jensen Huang says he would be honoured to return and has agreed to testify to Congress. One source so far."
-  },
-  {
-   "t": "Germany: a Morning Star report that the coalition agreed to cut electricity taxes for all consumers. One source so far."
-  },
-  {
    "t": "Japan and China: a Japan Times report that Prime Minister Takaichi and Xi Jinping shook hands in Shenzhen, their first encounter since her Taiwan remarks. One source so far."
+  },
+  {
+   "t": "Nvidia: an NPR report that Jensen Huang says he would be honoured to return. One source so far."
+  },
+  {
+   "t": "ECB: a report that the ECB will discuss raising banks’ minimum reserve requirement from 1% to 2% on 25 November. One source so far."
+  },
+  {
+   "t": "India: reports that India imposed an effective 162.5% tariff on Scotch whisky imports. One source so far."
+  },
+  {
+   "t": "Ukraine: a report that Russian strikes on Odesa on 18 November killed three people. One source so far."
+  },
+  {
+   "t": "APEC: a CNN report, citing a White House official, that Trump will meet Mexico’s Claudia Sheinbaum and Canada’s Mark Carney in Shenzhen. One source so far."
+  },
+  {
+   "t": "Moldova: a report that Moldova closed its airspace after Russian drones crossed into it. One source so far."
   }
  ],
- "lastChange": "2026-11-18T16:55:00Z",
- "lastCheck": "2026-11-18T16:55:00Z",
- "note": "New story: the Board of Peace warns the Gaza ceasefire could collapse. Updates: Xi met Putin in Shenzhen, Iran’s first attack on Kuwait since September, drone strikes on Russian refineries, and Nvidia’s shares.",
+ "lastChange": "2026-11-18T22:45:00Z",
+ "lastCheck": "2026-11-18T22:45:00Z",
+ "note": "New stories: Ebola in Congo, an EU loan for Ukraine, Anthropic’s IPO price, UK inflation, Germany’s electricity tax cut, US measles status, a Russian plane crash and Cyclone Xavier. Updates: Fed minutes, Huang’s testimony, Wall Street’s close, the APEC banquet, Iran and Kuwait, oil, Ukraine and COP31.",
  "schedule": "Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
 }

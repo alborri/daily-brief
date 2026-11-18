@@ -1,0 +1,68 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Geopolitics"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 3,
+ "icon": "plane",
+ "ev": "Russia",
+ "sh": "Russian military plane crash kills 19",
+ "headline": "A Russian military transport plane crashes in Siberia, killing all 19 people on board",
+ "summary": "An Antonov An-12 military transport plane crashed near the village of Yagunovo in Russia’s Kemerovo region on Tuesday 17 November, killing all 19 people on board, Russia’s Defence Ministry said.",
+ "why": "Early findings point to equipment failure, according to the Defence Ministry. An investigation is under way.",
+ "event": [
+  {
+   "s": [
+    "aj",
+    "nbc"
+   ],
+   "t": "The ministry said preliminary findings point to equipment failure, and an air force commission is investigating at the site."
+  },
+  {
+   "s": [
+    "mt",
+    "nbc"
+   ],
+   "t": "Kemerovo governor Ilya Seredyuk said the plane came down near Yagunovo, about 5 km south of the city of Kemerovo and about 3,000 km east of Moscow."
+  }
+ ],
+ "effects": [
+  {
+   "label": "Investigation",
+   "s": [
+    "aj",
+    "nbc"
+   ],
+   "t": "Air force experts are looking into the cause."
+  }
+ ],
+ "watch": [
+  "Results of the investigation"
+ ],
+ "src": {
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "Russian military plane crash in Siberia kills 19",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19"
+  },
+  "nbc": {
+   "n": "NBC News",
+   "t": "Russian military transport plane crashes in Siberia, killing 19, according to Defense Ministry",
+   "tier": "national",
+   "u": "https://www.nbcnews.com/world/russia/russian-military-transport-plane-crashes-siberia-killing-19-according-rcna609886"
+  },
+  "mt": {
+   "n": "The Moscow Times",
+   "t": "19 Killed in Military Transport Plane Crash in Siberia",
+   "tier": "intl",
+   "u": "https://www.themoscowtimes.com/2026/11/18/at-least-13-killed-in-military-transport-plane-crash-in-kemerovo-region-reports-a94289"
+  }
+ }
+}

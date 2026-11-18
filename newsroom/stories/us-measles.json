@@ -1,0 +1,90 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Politics"
+ ],
+ "regions": [
+  "US"
+ ],
+ "region": "US",
+ "importance": 4,
+ "icon": "health",
+ "ev": "Measles in the US",
+ "sh": "US loses measles-free status",
+ "headline": "The US loses its measles elimination status after 26 years",
+ "summary": "The Pan American Health Organization said on Tuesday 17 November that the United States no longer counts as having eliminated measles. The virus has spread without a break inside the country for more than a year.",
+ "why": "Measles was declared eliminated in the US in 2000. Losing the status means the disease is again considered endemic, and health experts say the US could now spread measles to other countries.",
+ "event": [
+  {
+   "s": [
+    "aj",
+    "nbc"
+   ],
+   "t": "PAHO director Jarbas Barbosa said he accepted an expert panel’s advice to withdraw the status, after the virus circulated nonstop for more than 12 months."
+  },
+  {
+   "s": [
+    "aj",
+    "cbs",
+    "nbc"
+   ],
+   "t": "The US Centers for Disease Control and Prevention said it remains committed to stopping outbreaks and regaining the status. Health Secretary Robert F. Kennedy Jr. pointed to disruptions in childhood vaccination during COVID."
+  },
+  {
+   "s": [
+    "aj",
+    "yhn"
+   ],
+   "t": "The US must now send PAHO a plan to correct the situation. It is one of three countries to lose the status in 2026, along with Mexico and Bolivia."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Public health",
+   "s": [
+    "cbs",
+    "jhu"
+   ],
+   "t": "Higher risk of catching measles for people who are not vaccinated."
+  }
+ ],
+ "watch": [
+  "The US plan to win back the status",
+  "Vaccination rates among children"
+ ],
+ "src": {
+  "aj": {
+   "n": "Al Jazeera",
+   "t": "US officially loses measles-free status after 26 years in historic setback",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+  },
+  "nbc": {
+   "n": "NBC News",
+   "t": "U.S. loses measles-elimination status, erasing decades of progress",
+   "tier": "national",
+   "u": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
+  },
+  "cbs": {
+   "n": "CBS News",
+   "t": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk.",
+   "tier": "national",
+   "u": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+  },
+  "yhn": {
+   "n": "Yahoo News",
+   "t": "Highly contagious: US loses 26-year measles elimination status as cases more than double",
+   "tier": "other",
+   "u": "https://www.yahoo.com/news/us/articles/highly-contagious-us-loses-26-180105406.html"
+  },
+  "jhu": {
+   "n": "Johns Hopkins Bloomberg School of Public Health",
+   "t": "U.S. Officially Loses Measles Elimination Status as Outbreaks Continue",
+   "tier": "specialist",
+   "u": "https://publichealth.jhu.edu/ivac/2026/us-officially-loses-measles-elimination-status"
+  }
+ }
+}

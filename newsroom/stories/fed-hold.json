@@ -1,5 +1,5 @@
 {
- "rev": "2026-11-16T16:50:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "src": {
   "st": {
    "n": "TheStreet",
@@ -18,6 +18,30 @@
    "t": "A Larger-Than-Normal Fed Rate Hike in December Now Looks More Likely. Here’s Why.",
    "tier": "other",
    "u": "https://www.fool.com/investing/2026/11/14/a-larger-than-normal-fed-rate-hike-in-december-now-looks-more-likely-here-s-why/"
+  },
+  "fedpr": {
+   "n": "Federal Reserve",
+   "t": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "tier": "official",
+   "u": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+  },
+  "cnbcf": {
+   "n": "CNBC",
+   "t": "Fed minutes October 2026: Officials expect more rate hikes, worry about AI",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+  },
+  "invn": {
+   "n": "InvestmentNews",
+   "t": "The Fed came close to an October rate hike, FOMC minutes show",
+   "tier": "specialist",
+   "u": "https://www.investmentnews.com/equities/the-fed-came-close-to-an-october-rate-hike-fomc-minutes-show/269079"
+  },
+  "p21": {
+   "n": "Page Twenty One",
+   "t": "Fed Minutes Nov 2026: What They Could Mean for Your Mortgage",
+   "tier": "other",
+   "u": "https://www.pagetwentyone.com/post/fed-minutes-november-2026-what-to-watch"
   }
  },
  "updates": [
@@ -31,6 +55,20 @@
    ],
    "t": "In speeches during the week, Fed officials signal a rate rise in December. Governor Christopher Waller says a half-point rise should be considered, which would be double the usual step.",
    "why": "A larger rise would be a stronger move against inflation than the usual quarter point."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "key": true,
+   "top": true,
+   "s": [
+    "fedpr",
+    "cnbcf",
+    "invn",
+    "p21"
+   ],
+   "t": "Minutes of the Fed’s 27–28 October meeting, released on 18 November, show that almost all officials thought further rate rises would likely be appropriate. Two members had voted for a 0.25-point rise in October, when the Fed held its rate at 3.75% to 4%.",
+   "why": "Markets now watch whether the Fed raises rates at its 8–9 December meeting."
   }
  ]
 }

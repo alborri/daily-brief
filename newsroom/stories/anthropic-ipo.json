@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Markets"
+ ],
+ "regions": [
+  "US"
+ ],
+ "region": "US",
+ "importance": 5,
+ "icon": "chart",
+ "ev": "AI industry",
+ "sh": "Anthropic prices IPO at $83",
+ "headline": "Anthropic prices its stock market listing at $83 a share, above its target range, reports say",
+ "summary": "Anthropic, the AI company that makes Claude, priced its initial public offering at $83 a share on Wednesday 18 November, above its $70 to $78 range, according to a person familiar with the matter cited by Reuters. The shares are due to start trading on Nasdaq on Thursday under the ticker ANT.",
+ "why": "Reuters calls it one of the largest stock market listings on record and the first by a major developer of advanced AI models. It is a test of how much investors will pay for AI after weeks of swings in tech stocks.",
+ "event": [
+  {
+   "s": [
+    "reu2",
+    "cb"
+   ],
+   "t": "Reuters, CNBC and The Wall Street Journal reported the price, citing people familiar with the matter. Anthropic had planned to sell about 825 million shares."
+  },
+  {
+   "s": [
+    "cnbcr",
+    "reu2"
+   ],
+   "t": "Anthropic set the $70 to $78 range in a filing on 10 November."
+  }
+ ],
+ "effects": [
+  {
+   "label": "AI stocks",
+   "s": [
+    "yfw",
+    "vist"
+   ],
+   "t": "Investors watched the listing after days of swings in AI shares."
+  }
+ ],
+ "watch": [
+  "The first day of trading on Thursday 19 November",
+  "How other AI stocks react"
+ ],
+ "src": {
+  "reu2": {
+   "n": "Reuters (via Investing.com)",
+   "t": "Anthropic prices blockbuster IPO at $83 a share, source says",
+   "tier": "agency",
+   "u": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
+  },
+  "cb": {
+   "n": "Crunchbase News",
+   "t": "Anthropic Prices IPO Shares At $83, Above Range",
+   "tier": "specialist",
+   "u": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/"
+  },
+  "cnbcr": {
+   "n": "CNBC",
+   "t": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+  },
+  "yfw": {
+   "n": "Yahoo Finance",
+   "t": "Stock market today: Dow, S&P 500 slip ahead of Anthropic IPO, Nvidia stock extends decline",
+   "tier": "national",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+  },
+  "vist": {
+   "n": "Vistap Global",
+   "t": "U.S. Stock Market Today, November 18, 2026: Dow Falls 561 Points, Nasdaq Rises Ahead of Anthropic IPO",
+   "tier": "other",
+   "u": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"
+  }
+ }
+}

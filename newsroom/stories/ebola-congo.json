@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Geopolitics"
+ ],
+ "regions": [
+  "Global"
+ ],
+ "region": "Global",
+ "importance": 6,
+ "icon": "health",
+ "ev": "Ebola in Congo",
+ "sh": "Ebola cases in Congo pass 11,000",
+ "headline": "Congo’s Ebola outbreak has more than doubled in three months, the WHO says",
+ "summary": "The Ebola outbreak in the Democratic Republic of the Congo now has more than 11,000 confirmed cases. As of 15 November, Congo had reported 11,376 confirmed cases and 5,568 deaths, according to the EU’s disease agency, ECDC.",
+ "why": "It is one of the largest Ebola outbreaks on record. The Bundibugyo virus behind it has no known vaccine or treatment, and violence in the worst-hit provinces makes it harder to contain.",
+ "event": [
+  {
+   "s": [
+    "unn",
+    "weaa"
+   ],
+   "t": "WHO chief Tedros Adhanom Ghebreyesus said on 17 November that cases have more than doubled in three months. The outbreak has reached eight of Congo’s 26 provinces."
+  },
+  {
+   "s": [
+    "ecdc",
+    "cl"
+   ],
+   "t": "ECDC counts 11,376 confirmed cases and 5,568 deaths in Congo, based on data up to 14 November. About half of confirmed cases have died."
+  },
+  {
+   "s": [
+    "unn"
+   ],
+   "t": "Tedros said children make up more than a quarter of confirmed cases and a third of deaths."
+  },
+  {
+   "s": [
+    "weaa",
+    "ecdc"
+   ],
+   "t": "There is no known vaccine or treatment for the Bundibugyo virus. Cases linked to the outbreak were also reported in Kenya and Nigeria in October, ECDC says."
+  }
+ ],
+ "effects": [
+  {
+   "label": "Children",
+   "s": [
+    "unn"
+   ],
+   "t": "More than a quarter of confirmed cases, the WHO says."
+  },
+  {
+   "dir": "up",
+   "label": "Spread",
+   "s": [
+    "weaa",
+    "unn"
+   ],
+   "t": "Now in eight of Congo’s 26 provinces."
+  }
+ ],
+ "watch": [
+  "Advice from the WHO emergency committee that met on 17 November",
+  "Whether new cases appear outside Congo",
+  "Security in Ituri and North Kivu, the main hotspots"
+ ],
+ "src": {
+  "unn": {
+   "n": "UN News",
+   "t": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+   "tier": "official",
+   "u": "https://news.un.org/en/story/2026/11/1168827"
+  },
+  "ecdc": {
+   "n": "ECDC (EU disease agency)",
+   "t": "Ebola disease outbreak caused by Bundibugyo virus – Multi-country – 2026",
+   "tier": "official",
+   "u": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-16"
+  },
+  "weaa": {
+   "n": "WEAA",
+   "t": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+   "tier": "national",
+   "u": "https://www.weaa.org/2026-11-11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
+  },
+  "cl": {
+   "n": "Contagion Live",
+   "t": "Ebola Outbreak Reaches 11,145 Cases, 5437 Deaths",
+   "tier": "specialist",
+   "u": "https://www.contagionlive.com/view/ebola-outbreak-reaches-11-145-cases-5437-deaths"
+  }
+ }
+}

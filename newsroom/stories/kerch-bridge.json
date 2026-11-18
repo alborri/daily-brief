@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T16:55:00Z",
- "rev": "2026-11-18T16:55:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -138,6 +138,18 @@
    "t": "Fires break out at two major Krasnodar Krai oil refineries",
    "tier": "national",
    "u": "https://english.nv.ua/nation/ukrainian-uavs-spark-fires-at-two-krasnodar-oil-plants-50660223.html"
+  },
+  "ukr": {
+   "n": "Ukrinform (Ukrainian state news agency)",
+   "t": "General Staff confirms strikes on Ilsky and Afipsky oil refineries",
+   "tier": "state",
+   "u": "https://www.ukrinform.net/rubric-ato"
+  },
+  "uav": {
+   "n": "Ukrainian Women’s Guard",
+   "t": "War in Ukraine today: latest news, 18 November 2026",
+   "tier": "other",
+   "u": "https://uavarta.org/en/war-in-ukraine-today-latest-news-18-november-2026-photo/"
   }
  },
  "updates": [
@@ -160,6 +172,15 @@
     "nv"
    ],
    "t": "Overnight, Ukrainian drones caused fires at two industrial sites in Russia’s Krasnodar region, which local reports name as the Afipsky and Ilsky oil refineries. Regional officials said four people were injured."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "ukr",
+    "uav"
+   ],
+   "t": "Ukraine’s General Staff confirmed strikes on the Ilsky and Afipsky refineries. In Kyiv, three people were injured in Russian attacks on Wednesday, Mayor Vitali Klitschko said."
   }
  ],
  "corrections": [

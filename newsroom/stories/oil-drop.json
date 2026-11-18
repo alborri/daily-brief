@@ -88,7 +88,7 @@
    "note": "Cheaper energy"
   }
  ],
- "rev": "2026-11-18T10:55:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "sh": "Oil falls more than 3% on surplus outlook",
  "src": {
   "bah": {
@@ -181,6 +181,24 @@
    "t": "Newsquawk Daily European Equity Opening News - 18th November 2026",
    "tier": "specialist",
    "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---18th-november-2026"
+  },
+  "rig2": {
+   "n": "Bloomberg (via Rigzone)",
+   "t": "Oil Falls 3% Despite Middle East Attacks",
+   "tier": "intl",
+   "u": "https://www.rigzone.com/news/oil_falls_3_despite_middle_east_attacks-18-nov-2026-185118-article"
+  },
+  "inv2": {
+   "n": "Investing.com",
+   "t": "Brent Oil Futures Price History",
+   "tier": "specialist",
+   "u": "https://www.investing.com/commodities/brent-oil-historical-data"
+  },
+  "te2": {
+   "n": "Trading Economics",
+   "t": "Brent oil - Price - Chart - Historical Data - News",
+   "tier": "specialist",
+   "u": "https://tradingeconomics.com/commodity/brent-crude-oil"
   }
  },
  "summary": "Brent crude settled at $92.44 a barrel on Monday 16 November, down $3.40 or about 3.5%. Traders expect more supply than demand as oil exports from the Middle East recover.",
@@ -234,6 +252,16 @@
     "nqo"
    ],
    "t": "Brent fell below $92 a barrel on Wednesday morning, as recovering supplies and higher US stockpiles outweighed new fighting in the Gulf, Bloomberg reports."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "rig2",
+    "inv2",
+    "te2"
+   ],
+   "t": "At Wednesday’s close, Brent crude was down about 1% at around $92 a barrel, and US crude fell more sharply. Bloomberg says Brent has lost about a fifth of its value this month as Middle East supplies recovered."
   }
  ],
  "watch": [

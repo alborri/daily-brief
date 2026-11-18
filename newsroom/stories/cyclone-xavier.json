@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Climate"
+ ],
+ "regions": [
+  "Global"
+ ],
+ "region": "Global",
+ "importance": 3,
+ "icon": "storm",
+ "ev": "Pacific weather",
+ "sh": "Cyclone Xavier hits Cook Islands",
+ "headline": "Cyclone Xavier batters the northern Cook Islands",
+ "summary": "Severe Tropical Cyclone Xavier reached Category 5, the highest level, over the northern Cook Islands this week, with gusts of up to 315 km/h near its centre, local forecasters said. By 19 November local time it had weakened to Category 4, 1News reports.",
+ "why": "The northern Cook Islands are low-lying atolls, exposed to strong winds, high seas and coastal flooding.",
+ "event": [
+  {
+   "s": [
+    "cin",
+    "stuff"
+   ],
+   "t": "The Cook Islands Meteorological Service warned of damaging winds, heavy rain, dangerous seas and coastal flooding, especially for Pukapuka and Nassau."
+  },
+  {
+   "s": [
+    "stuff",
+    "cin"
+   ],
+   "t": "Residents were urged to stay in safe shelter and away from the coast."
+  },
+  {
+   "s": [
+    "1n"
+   ],
+   "t": "1News reports the storm was moving slowly between Manihiki and Pukapuka; a Manihiki resident said people there were prepared and safe."
+  }
+ ],
+ "effects": [
+  {
+   "label": "Northern Cook Islands",
+   "s": [
+    "cin",
+    "stuff"
+   ],
+   "t": "Gales, heavy rain and a risk of coastal flooding."
+  }
+ ],
+ "watch": [
+  "Damage reports once the storm passes",
+  "Where the cyclone heads next"
+ ],
+ "src": {
+  "cin": {
+   "n": "Cook Islands News",
+   "t": "Severe Cyclone Xavier threatens Pukapuka, Nassau and Suwarrow",
+   "tier": "national",
+   "u": "https://www.cookislandsnews.com/national/local/outer-islands/weather/severe-cyclone-xavier-threatens-pukapuka-nassau-and-suwarrow/"
+  },
+  "stuff": {
+   "n": "Stuff (New Zealand)",
+   "t": "Category 5 Cyclone Xavier batters Northern Cook Islands with gusts up to 315kph",
+   "tier": "national",
+   "u": "https://www.stuff.co.nz/world-news/361060571/category-5-cyclone-xavier-batters-northern-cook-islands"
+  },
+  "1n": {
+   "n": "1News (New Zealand)",
+   "t": "Cyclone Xavier slowly weakens as it tracks through Cook Islands",
+   "tier": "national",
+   "u": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+  }
+ }
+}

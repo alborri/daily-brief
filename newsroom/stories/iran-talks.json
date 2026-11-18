@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-18T16:55:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -295,6 +295,18 @@
    "t": "Iran live updates: US conducts airstrikes on Qeshm Island, US military official says",
    "tier": "national",
    "u": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+  },
+  "yreu": {
+   "n": "Reuters (via Yahoo News)",
+   "t": "Iran fires at Kuwait after US strike on Iranian island",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/articles/bahrain-issues-clear-threat-alert-001609990.html"
+  },
+  "an2": {
+   "n": "Arab News",
+   "t": "Kuwait, Bahrain fend off Iranian aerial attacks as coalition hits Houthi military sites",
+   "tier": "national",
+   "u": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -420,6 +432,15 @@
     "abc4"
    ],
    "t": "It is Iran’s first attack on Kuwait since September, Reuters reports; Kuwait says it intercepted the drones, and Bahrain issued two shelter alerts. A ship of the UAE’s state-owned ADNOC L&S was attacked in the Strait of Hormuz, the company confirmed. US Secretary of State Marco Rubio said he did not see an imminent threat to Washington."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "yreu",
+    "an2"
+   ],
+   "t": "Iran’s army said it targeted US drone and missile sites at Kuwait’s Ali Al Salem air base. Kuwait’s foreign ministry condemned the attack as a flagrant violation of its sovereignty."
   }
  ],
  "watch": [

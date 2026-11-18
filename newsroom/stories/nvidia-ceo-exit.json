@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T22:55:00Z",
- "rev": "2026-11-18T16:55:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "topics": [
   "Markets"
  ],
@@ -238,6 +238,54 @@
    "t": "Wall Street wobbles as Nvidia and other AI stocks keep swinging sharply",
    "tier": "agency",
    "u": "https://www.bnnbloomberg.ca/markets/2026/11/18/us-futures-point-higher-led-by-rebound-for-nvidia/"
+  },
+  "upi": {
+   "n": "UPI",
+   "t": "Former Nvidia CEO Jensen Huang agrees to testify before Congress",
+   "tier": "agency",
+   "u": "https://www.upi.com/Top_News/US/2026/11/17/nvidia-huang-congress-house-national-security/9761794933298"
+  },
+  "scmp": {
+   "n": "South China Morning Post",
+   "t": "Jensen Huang agrees to face Congress over Nvidia scandal",
+   "tier": "intl",
+   "u": "https://www.scmp.com/news/us/economy-trade-business/article/3374798/jensen-huang-agrees-face-congress-over-nvidia-scandal"
+  },
+  "cnbch": {
+   "n": "CNBC",
+   "t": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html"
+  },
+  "cnbcs": {
+   "n": "CNBC",
+   "t": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html"
+  },
+  "upis": {
+   "n": "UPI (via Yahoo News)",
+   "t": "Jensen Huang to testify before Senate panel",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/politics/articles/jensen-huang-testify-senate-panel-164506315.html"
+  },
+  "cnbcc2": {
+   "n": "CNBC",
+   "t": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+  },
+  "invt": {
+   "n": "Investrade",
+   "t": "Market Review: November 18, 2026",
+   "tier": "other",
+   "u": "https://investrade.com/market-review-november-18-2026/"
+  },
+  "vist": {
+   "n": "Vistap Global",
+   "t": "U.S. Stock Market Today, November 18, 2026: Dow Falls 561 Points, Nasdaq Rises Ahead of Anthropic IPO",
+   "tier": "other",
+   "u": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"
   }
  },
  "updates": [
@@ -304,6 +352,30 @@
     "bnn"
    ],
    "t": "Nvidia shares rose early on Wednesday but the gains faded and the stock turned lower, as Wall Street kept swinging on doubts about the AI boom."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "17–18 Nov 2026",
+   "key": true,
+   "s": [
+    "upi",
+    "scmp",
+    "cnbch",
+    "cnbcs",
+    "upis"
+   ],
+   "t": "Jensen Huang agreed to answer questions from three House committees on 1 December about possible Chinese spying and breaches of US chip export rules; Nvidia’s general counsel Tim Teter is due on 2 December. Senate Banking Committee chair Tim Scott said Huang and Commerce Secretary Howard Lutnick have also agreed to appear before his committee, which he hopes will happen before Christmas.",
+   "why": "It will be the first time Huang answers lawmakers’ questions since he resigned."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "cnbcc2",
+    "invt",
+    "vist"
+   ],
+   "t": "US stocks closed mostly lower on Wednesday. The S&P 500 fell 0.23% to 7,323.63, its fifth loss in a row, and the Dow fell 561 points, or 1.11%, while the Nasdaq rose 0.42%. Nvidia’s strong results did not lift AI stocks, Investrade notes, as fears of Fed rate rises weighed on markets."
   }
  ]
 }

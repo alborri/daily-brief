@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Geopolitics",
+  "Economy"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 6,
+ "icon": "coin",
+ "ev": "War in Ukraine",
+ "sh": "EU proposes €45bn loan for Ukraine",
+ "headline": "The EU proposes a new €45 billion loan to keep Ukraine funded in 2027",
+ "summary": "The European Commission proposed on Wednesday 18 November a new €45 billion loan for Ukraine, backed by joint EU borrowing. It would cover about two-thirds of a €70 billion gap in Ukraine’s funding for next year.",
+ "why": "Ukraine relies on foreign money to run the state and buy weapons. The plan needs the support of all 27 EU countries, and some have opposed joint borrowing for Ukraine before.",
+ "event": [
+  {
+   "s": [
+    "enx2",
+    "bn"
+   ],
+   "t": "€20 billion would support Ukraine’s budget and €25 billion would pay for military needs such as drones, missiles and air-defence interceptors."
+  },
+  {
+   "s": [
+    "reu",
+    "bn"
+   ],
+   "t": "Commission President Ursula von der Leyen said Ukraine would repay the loan only after Russia pays reparations for war damage."
+  },
+  {
+   "s": [
+    "enx2",
+    "enxt"
+   ],
+   "t": "Von der Leyen said she was “very confident” all 27 countries would agree. Euronews reports that resistance is expected from Hungary and Slovakia, among others."
+  },
+  {
+   "s": [
+    "arc",
+    "enx25"
+   ],
+   "t": "It would come on top of a €90 billion EU loan agreed in December 2025 for 2026 and 2027."
+  }
+ ],
+ "effects": [
+  {
+   "label": "Ukraine",
+   "s": [
+    "reu",
+    "enxt"
+   ],
+   "t": "Would cover about two-thirds of its 2027 funding gap."
+  },
+  {
+   "label": "EU finances",
+   "s": [
+    "enx2",
+    "enxt"
+   ],
+   "t": "Backed by joint EU borrowing."
+  }
+ ],
+ "watch": [
+  "Whether all 27 EU countries back the plan",
+  "The EU leaders’ summit in December"
+ ],
+ "src": {
+  "enx2": {
+   "n": "Euronews",
+   "t": "Von der Leyen proposes €45bn loan to Ukraine backed by joint debt",
+   "tier": "intl",
+   "u": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt"
+  },
+  "enxt": {
+   "n": "Euronews",
+   "t": "Europe Tonight: EU proposes €45bn Ukraine loan as Trump, Xi and Putin meet",
+   "tier": "intl",
+   "u": "https://euronews.com/2026/11/18/europe-tonight-eu-proposes-45bn-ukraine-loan-as-trump-xi-and-putin-meet"
+  },
+  "reu": {
+   "n": "Reuters (via Yahoo News)",
+   "t": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+   "tier": "agency",
+   "u": "https://www.yahoo.com/news/articles/eu-proposes-45-billion-loan-103010439.html"
+  },
+  "bn": {
+   "n": "Breaking The News",
+   "t": "EU proposes €45 billion loan for Ukraine",
+   "tier": "other",
+   "u": "https://breakingthenews.net/Article/EU-proposes-euro45-billion-loan-for-Ukraine/67589470"
+  },
+  "arc": {
+   "n": "Archyde",
+   "t": "EU Proposes €45 Billion Ukraine Loan as von der Leyen Pushes for Unity Among 27 Members",
+   "tier": "other",
+   "u": "https://www.archyde.com/eu-proposes-e45-billion-ukraine-loan-as-von-der-leyen-pushes-for-unity-among-27-members/"
+  },
+  "enx25": {
+   "n": "Euronews",
+   "t": "EU to issue €90 billion in joint debt for Ukraine after hitting a wall on reparations loan",
+   "tier": "intl",
+   "u": "https://euronews.com/my-europe/2025/12/19/eu-to-issue-90-billion-in-joint-debt-for-ukraine-after-hitting-a-wall-on-reparations-loan"
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Economy"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 4,
+ "icon": "chart",
+ "ev": "UK economy",
+ "sh": "UK inflation rises to 3.6%",
+ "headline": "UK inflation rises to 3.6% in October, its highest in a year",
+ "summary": "Consumer prices in the UK rose 3.6% in the 12 months to October, up from 3.5% in September, the Office for National Statistics said on 18 November. It is the fourth rise in a row.",
+ "why": "Inflation stays well above the Bank of England’s 2% target, which matters for interest rates, mortgages and savings.",
+ "event": [
+  {
+   "s": [
+    "ons",
+    "mw"
+   ],
+   "t": "Core inflation, which leaves out energy, food, alcohol and tobacco, stayed at 2.8%."
+  },
+  {
+   "s": [
+    "onsx",
+    "ta"
+   ],
+   "t": "The ONS said fuel prices were again a major reason for the rise. Motor fuel cost 33.2% more than a year earlier, and a tobacco duty rise on 1 October also pushed prices up."
+  },
+  {
+   "s": [
+    "ons"
+   ],
+   "t": "Food inflation slowed to 0.8% from 1.2% in September."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "up",
+   "label": "Motor fuel",
+   "s": [
+    "ta",
+    "onsx"
+   ],
+   "t": "Up 33.2% in a year."
+  },
+  {
+   "dir": "down",
+   "label": "Food",
+   "s": [
+    "ons"
+   ],
+   "t": "Food inflation slowed to 0.8%."
+  }
+ ],
+ "watch": [
+  "The Bank of England’s next rate decision",
+  "November inflation figures"
+ ],
+ "src": {
+  "ons": {
+   "n": "Office for National Statistics",
+   "t": "Consumer price inflation, UK: October 2026",
+   "tier": "official",
+   "u": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+  },
+  "onsx": {
+   "n": "ONS on X",
+   "t": "The Consumer Prices Index (CPI) rose by 3.6% in the 12 months to October 2026",
+   "tier": "official",
+   "u": "https://x.com/ONS/status/2122948017032753458"
+  },
+  "mw": {
+   "n": "MoneyWeek",
+   "t": "Live: Inflation rose by 3.6% in October",
+   "tier": "national",
+   "u": "https://moneyweek.com/economy/news/live/inflation-cpi-october-2026-report"
+  },
+  "mf": {
+   "n": "Moneyfacts",
+   "t": "UK Inflation Rises To 12-Month High of 3.6% In October",
+   "tier": "specialist",
+   "u": "https://moneyfactscompare.co.uk/news/money/uk-inflation-october-2026/"
+  },
+  "ta": {
+   "n": "Traders Agency",
+   "t": "UK Inflation Jumps to 3.6% in October as Motor Fuel and Tobacco Costs Surge",
+   "tier": "other",
+   "u": "https://tradersagency.com/blog/uk-inflation-jumps-to-36percent-in-october-as-motor-fuel-and-tobacco-costs-surge"
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "date": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-18T22:45:00Z",
+ "live": false,
+ "topics": [
+  "Economy",
+  "Energy"
+ ],
+ "regions": [
+  "Europe"
+ ],
+ "region": "Europe",
+ "importance": 4,
+ "icon": "bolt",
+ "ev": "German economy",
+ "sh": "Germany cuts electricity tax",
+ "headline": "Germany will cut electricity tax for all households and businesses from January",
+ "summary": "Germany’s governing parties agreed early on Wednesday 18 November to cut the electricity tax for all consumers to the EU minimum from 1 January 2027. The tax will fall from 2.05 cents to 0.1 cents per kilowatt-hour.",
+ "why": "Germans pay some of the highest electricity prices in the EU. Chancellor Friedrich Merz had promised the cut, and the row over how to pay for it had tested his coalition.",
+ "event": [
+  {
+   "s": [
+    "enx",
+    "ap",
+    "tl"
+   ],
+   "t": "Leaders of Merz’s CDU/CSU and the Social Democrats agreed after more than eight hours of talks. Until now, the lower rate applied only to industry and farming."
+  },
+  {
+   "s": [
+    "enx",
+    "tl",
+    "ydpa"
+   ],
+   "t": "Funding is secured only for 2027. It comes from unused money in the fund that supports renewable energy; the parties say they want to make the cut permanent."
+  },
+  {
+   "s": [
+    "tl",
+    "enx"
+   ],
+   "t": "A typical household could save about €93 a year, The Local estimates. Euronews puts the saving for families at about €8 a month."
+  },
+  {
+   "s": [
+    "enx",
+    "gp"
+   ],
+   "t": "The coalition also agreed to extend a cap on fuel prices."
+  }
+ ],
+ "effects": [
+  {
+   "dir": "down",
+   "label": "Electricity bills",
+   "s": [
+    "tl",
+    "enx"
+   ],
+   "t": "About €93 a year less for a typical household."
+  },
+  {
+   "label": "Federal budget",
+   "s": [
+    "enx",
+    "tl"
+   ],
+   "t": "Paid for in 2027 only; later years are not yet funded."
+  }
+ ],
+ "watch": [
+  "The law needed to put the cut into force",
+  "How the cut will be paid for after 2027"
+ ],
+ "src": {
+  "enx": {
+   "n": "Euronews",
+   "t": "Germany cuts energy tax and extends fuel price cap in 2027",
+   "tier": "intl",
+   "u": "https://www.euronews.com/2026/11/18/germany-cuts-energy-tax-and-extends-fuel-price-cap-in-2027"
+  },
+  "ap": {
+   "n": "AP (via WRAL)",
+   "t": "German government to cut electricity bills after standoff that tested Merz's credibility",
+   "tier": "agency",
+   "u": "https://www.wral.com/news/ap/6a778-german-government-to-cut-electricity-bills-after-standoff-that-tested-merzs-credibility/"
+  },
+  "tl": {
+   "n": "The Local Germany",
+   "t": "Electricity tax cut for all German households back in place for 2027",
+   "tier": "national",
+   "u": "https://www.thelocal.de/20261118/electricity-tax-cut-for-all-german-households-back-in-place-for-2027"
+  },
+  "ydpa": {
+   "n": "Yahoo News",
+   "t": "German coalition strikes deal to cut electricity tax for households",
+   "tier": "other",
+   "u": "https://www.yahoo.com/news/world/articles/german-coalition-strikes-deal-cut-074827340.html"
+  },
+  "gp": {
+   "n": "Germanpedia",
+   "t": "Stromsteuer 2027: Electricity Tax Set to Fall to 0.1 Cents",
+   "tier": "other",
+   "u": "https://germanpedia.com/stromsteuer-2027/"
+  }
+ }
+}

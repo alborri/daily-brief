@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-18T16:55:00Z",
+ "rev": "2026-11-18T22:45:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -310,6 +310,18 @@
    "t": "China’s Xi and Russia’s Putin hold talks on eve of three-way summit with Trump",
    "tier": "intl",
    "u": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
+  },
+  "cnbcb": {
+   "n": "CNBC",
+   "t": "Trump, Xi and Putin gather in China: What happened at APEC",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+  },
+  "cbsx": {
+   "n": "CBS News",
+   "t": "Trump and Xi are set to meet in China amid tensions over AI. Here's what to know.",
+   "tier": "national",
+   "u": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/"
   }
  },
  "updates": [
@@ -371,6 +383,16 @@
     "eunx"
    ],
    "t": "Xi Jinping and Vladimir Putin met in Shenzhen on Wednesday, the day before the three-way meeting. China’s foreign ministry says Putin backed working with China on a “multipolar” world and a fairer global governance system."
+  },
+  {
+   "at": "2026-11-18T22:45:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "cnbcb",
+    "cbsx",
+    "cnnl"
+   ],
+   "t": "Trump, Xi and Putin posed for photos together before the APEC welcome banquet in Shenzhen on Wednesday evening. Xi said he met Trump at the airport to return the gesture Trump made when he greeted Xi at Joint Base Andrews earlier this year, CNN reports. Trump and Xi are due to hold their own meeting before the three-way talks."
   }
  ]
 }
