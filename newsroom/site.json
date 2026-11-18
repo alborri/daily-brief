@@ -60,7 +60,11 @@
    "year": true
   }
  ],
- "corrections": [],
+ "corrections": [
+  {
+   "t": "18 Nov 2026, Kerch Bridge story: an earlier version said Russian attacks killed two people in Kyiv. Kyiv officials reported one person injured there."
+  }
+ ],
  "held": [
   {
    "t": "Iran: a Euronews report that the US struck missile launchers in southern Iran on Sunday night. No second source and no US confirmation in the reports seen."
@@ -81,17 +85,20 @@
    "t": "Iran: a Reuters report that the crew of a tanker is missing in the Strait of Hormuz. One source so far."
   },
   {
-   "t": "Nvidia: an NPR report that Jensen Huang says he would be honoured to return and has agreed to testify to Congress, and a Yahoo Finance report that the board will not reinstate him. Waiting for more sources."
-  },
-  {
    "t": "Iran: a Bloomberg report that Iran threatened to hit civilian sites near US or Israeli bases if its own civilian sites are attacked. One source so far."
   },
   {
    "t": "Israel: a Channel 12 report, carried by other outlets, that aides to Prime Minister Netanyahu gave police tips that led to arrests of Arab party workers on election day. Not yet independently confirmed."
+  },
+  {
+   "t": "Nvidia: an NPR report that Jensen Huang says he would be honoured to return and has agreed to testify to Congress. One source so far."
+  },
+  {
+   "t": "Bahrain: an Anadolu report that Bahrain’s air defences stopped several Iranian attacks early on Wednesday. One source so far."
   }
  ],
- "lastChange": "2026-11-17T22:55:00Z",
- "lastCheck": "2026-11-17T22:55:00Z",
- "note": "Nvidia’s results are in: sales doubled and beat forecasts, so the story has a new top. Updates: US strikes on Iran’s Qeshm Island, Russia’s response to the Kerch Bridge strike, oil’s close, Wall Street’s close and the count in Alaska’s Senate race.",
+ "lastChange": "2026-11-18T04:55:00Z",
+ "lastCheck": "2026-11-18T04:55:00Z",
+ "note": "Overnight check. Updates: Nvidia’s board says it will not bring Huang back, and shares rose after the results; Iran confirmed the US strike on Qeshm Island. Correction to the Kerch Bridge story about casualties in Kyiv.",
  "schedule": "Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
 }

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T22:55:00Z",
- "rev": "2026-11-17T22:55:00Z",
+ "rev": "2026-11-18T04:55:00Z",
  "topics": [
   "Markets"
  ],
@@ -82,9 +82,9 @@
   }
  ],
  "watch": [
-  "How shares react when trading opens on Wednesday",
+  "How shares trade on Wall Street on Wednesday",
   "Who Nvidia chooses as its next chief executive",
-  "Whether the fall in tech shares continues"
+  "Whether Huang testifies to Congress"
  ],
  "src": {
   "cbs": {
@@ -190,6 +190,36 @@
    "t": "How major US stock indexes fared Tuesday 11/17/2026",
    "tier": "agency",
    "u": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-tuesday-11-17-2026"
+  },
+  "cd": {
+   "n": "CoinDesk",
+   "t": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+   "tier": "specialist",
+   "u": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
+  },
+  "ind": {
+   "n": "INDmoney",
+   "t": "Nvidia Stock Q3 Earnings Analysis: Shares Jump as Board Rejects Jensen Huang’s CEO Return",
+   "tier": "other",
+   "u": "https://www.indmoney.com/blog/us-stocks/nvidia-stock-q3-earnings-analysis-nvda"
+  },
+  "yfe": {
+   "n": "Yahoo Finance",
+   "t": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang’s Exit",
+   "tier": "national",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-rise-earnings-beat-221818886.html"
+  },
+  "cnbca": {
+   "n": "CNBC",
+   "t": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+  },
+  "c18": {
+   "n": "CNBC-TV18 (via TradingView)",
+   "t": "Kospi jumps over 3%; Asian markets rebound as Nvidia forecast lifts sentiment",
+   "tier": "national",
+   "u": "https://www.tradingview.com/news/cnbctv:352a14e2e094b:0/"
   }
  },
  "updates": [
@@ -225,6 +255,27 @@
    ],
    "t": "Nvidia reports revenue of $115.8 billion, up 103% from a year earlier, and forecasts about $130 billion for next quarter, above analysts’ estimates.",
    "why": "The results show demand for AI chips is still strong despite the leadership crisis."
+  },
+  {
+   "at": "2026-11-18T04:55:00Z",
+   "d": "17–18 Nov 2026",
+   "key": true,
+   "s": [
+    "cd",
+    "ind",
+    "yfe"
+   ],
+   "t": "On the earnings call, board chair Harvey Jones said the board has no intention of bringing Jensen Huang back as chief executive. Nvidia shares rose in trading after the market closed.",
+   "why": "It answers the question of whether Huang could quickly return to lead the company."
+  },
+  {
+   "at": "2026-11-18T04:55:00Z",
+   "d": "18 Nov 2026",
+   "s": [
+    "cnbca",
+    "c18"
+   ],
+   "t": "In Asia on Wednesday, South Korea’s Kospi led early gains as chipmakers rose on Nvidia’s forecast, CNBC reports."
   }
  ]
 }

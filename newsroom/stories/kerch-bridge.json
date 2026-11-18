@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T16:55:00Z",
- "rev": "2026-11-17T22:55:00Z",
+ "rev": "2026-11-18T04:55:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -14,7 +14,7 @@
  "ev": "Ukraine war",
  "sh": "Ukraine hits Crimea bridge; Kyiv bridges struck",
  "headline": "Ukraine collapses part of the bridge to Crimea as Russian strikes damage bridges in Kyiv",
- "summary": "A Ukrainian strike brought down part of the Kerch Bridge, which links Russia to occupied Crimea, on the night of 16 to 17 November. Overnight Russian attacks damaged two main bridges in Kyiv and killed two people there, Ukrainian officials said.",
+ "summary": "A Ukrainian strike brought down part of the Kerch Bridge, which links Russia to occupied Crimea, on the night of 16 to 17 November. The same night, Russian missiles hit two main bridges in Kyiv, Ukrainian officials said.",
  "why": "The Kerch Bridge is a key supply route for Russian troops and a symbol of Russia’s control of Crimea. The attacks come two days before Putin is due to meet Trump and Xi in Shenzhen, where the war may be discussed.",
  "event": [
   {
@@ -41,11 +41,10 @@
   },
   {
    "s": [
-    "nbck",
-    "cnnk",
-    "bbgk"
+    "kyi",
+    "upr"
    ],
-   "t": "In Kyiv, officials said overnight Russian attacks damaged and closed two of the city’s main bridges and killed two people."
+   "t": "In Kyiv, Mayor Vitali Klitschko said Russian missiles hit the city’s Northern and Southern bridges over the Dnipro. City officials reported one person injured, and some districts lost water and heating."
   }
  ],
  "effects": [
@@ -115,6 +114,18 @@
    "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
    "tier": "national",
    "u": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war"
+  },
+  "kyi": {
+   "n": "The Kyiv Independent",
+   "t": "2 key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+   "tier": "national",
+   "u": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+  },
+  "upr": {
+   "n": "Ukrainska Pravda",
+   "t": "Overnight Russian attack on Kyiv: infrastructure and bridges damaged, water and heating disrupted, one injured",
+   "tier": "national",
+   "u": "https://www.pravda.com.ua/eng/news/2026/11/17/8063203/index.amp"
   }
  },
  "updates": [
@@ -128,6 +139,11 @@
     "nprk"
    ],
    "t": "Russian officials called the strike a terrorist act and said a plan to repair the bridge will be drawn up, CNN and NBC News report. Russia said it shot down 1,441 Ukrainian drones overnight, a record, ABC News and NPR report."
+  }
+ ],
+ "corrections": [
+  {
+   "t": "18 Nov 2026: an earlier version said Russian attacks killed two people in Kyiv. Kyiv officials reported one person injured there."
   }
  ]
 }

@@ -83,7 +83,7 @@
   }
  ],
  "live": true,
- "rev": "2026-11-17T22:55:00Z",
+ "rev": "2026-11-18T04:55:00Z",
  "sh": "Iran claims attack on US base in Bahrain",
  "src": {
   "cnbc": {
@@ -241,6 +241,18 @@
    "t": "US strikes targets in Qeshm Island after ships catch fire in Hormuz",
    "tier": "intl",
    "u": "https://www.euronews.com/"
+  },
+  "br": {
+   "n": "Business Recorder (with agencies)",
+   "t": "Iran says US struck Qeshm island, after Guards target Bahrain",
+   "tier": "national",
+   "u": "https://www.brecorder.com/news/40449467/iran-says-us-struck-qeshm-island-after-guards-target-bahrain"
+  },
+  "gn2": {
+   "n": "Gulf News",
+   "t": "US-Iran tensions: Trump warns Iran of ‘major price’ as Tehran denies dirty bomb plot",
+   "tier": "national",
+   "u": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
   }
  },
  "summary": "Iran’s Revolutionary Guards say they sent six drones at a US radar site in Bahrain on Sunday. Bahrain says its air defences destroyed the incoming attacks before they reached their targets.",
@@ -334,6 +346,15 @@
    ],
    "t": "The US struck Iranian targets on Qeshm Island, in the Strait of Hormuz, on Tuesday, a US official said, according to Khaleej Times. NPR describes it as a response to Iran’s drone attack on Bahrain; Euronews links it to ships catching fire in the strait.",
    "why": "It is a direct US military response, which raises the risk of a wider exchange."
+  },
+  {
+   "at": "2026-11-18T04:55:00Z",
+   "d": "17–18 Nov 2026",
+   "s": [
+    "br",
+    "gn2"
+   ],
+   "t": "An Iranian official confirmed the US strike on Qeshm Island. Gulf News reports that US jets hit a Revolutionary Guards missile site there."
   }
  ],
  "watch": [
