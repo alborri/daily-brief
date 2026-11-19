@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16T16:50:00Z",
- "rev": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-19T04:50:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -322,6 +322,36 @@
    "t": "Trump and Xi are set to meet in China amid tensions over AI. Here's what to know.",
    "tier": "national",
    "u": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/"
+  },
+  "abc5": {
+   "n": "ABC News",
+   "t": "Trump Asia trip live updates: Trump, Xi, Putin and other leaders pose for APEC group photo",
+   "tier": "national",
+   "u": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+  },
+  "tass": {
+   "n": "TASS (Russian state news agency)",
+   "t": "White House confirms Trump-Putin-Xi meeting in Shenzhen",
+   "tier": "state",
+   "u": "https://tass.com/world/2218449"
+  },
+  "tfed": {
+   "n": "The Federal",
+   "t": "Trump-Xi-Putin summit LIVE: Historic meet to begin at 12 noon IST",
+   "tier": "national",
+   "u": "https://thefederal.com/category/international/trump-xi-putin-shenzhen-trilateral-meeting-263369"
+  },
+  "apd": {
+   "n": "AP (via NBC DFW)",
+   "t": "Trump meets Xi and Putin in China with two wars on the table",
+   "tier": "agency",
+   "u": "https://www.nbcdfw.com/news/national-international/trump-xi-putin-china-meeting/4108068/"
+  },
+  "wpxi": {
+   "n": "AP (via WPXI)",
+   "t": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table",
+   "tier": "agency",
+   "u": "https://www.wpxi.com/news/local/trump-meets-xi-putin-china-with-nuclear-arms-two-wars-table/ZWPLMQW5LFBWVAQA5S4IIWRDUY/"
   }
  },
  "updates": [
@@ -393,6 +423,19 @@
     "cnnl"
    ],
    "t": "Trump, Xi and Putin posed for photos together before the APEC welcome banquet in Shenzhen on Wednesday evening. Xi said he met Trump at the airport to return the gesture Trump made when he greeted Xi at Joint Base Andrews earlier this year, CNN reports. Trump and Xi are due to hold their own meeting before the three-way talks."
+  },
+  {
+   "at": "2026-11-19T04:50:00Z",
+   "d": "19 Nov 2026",
+   "key": true,
+   "s": [
+    "abc5",
+    "tass",
+    "tfed",
+    "apd"
+   ],
+   "t": "On Thursday morning Trump spoke at the APEC leaders’ session in Shenzhen. The three-way meeting with Xi and Putin is set for 14:30 local time (06:30 GMT). AP reports Trump has also added a separate meeting with Putin, their first talks since Alaska last year.",
+   "why": "It is the first meeting ever of the leaders of the US, China and Russia together."
   }
  ]
 }

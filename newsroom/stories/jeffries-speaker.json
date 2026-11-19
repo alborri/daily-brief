@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-19T04:50:00Z",
+ "rev": "2026-11-19T04:50:00Z",
+ "live": false,
+ "topics": [
+  "Politics"
+ ],
+ "regions": [
+  "US"
+ ],
+ "region": "US",
+ "importance": 4,
+ "icon": "building",
+ "ev": "US Congress",
+ "sh": "Democrats pick Jeffries for Speaker",
+ "headline": "House Democrats nominate Hakeem Jeffries to be the next Speaker",
+ "summary": "House Democrats voted on Wednesday 18 November to nominate their leader, Hakeem Jeffries of New York, as Speaker of the House. The full House will vote when the new Congress meets on 3 January.",
+ "why": "If elected, Jeffries would be the first Black Speaker in US history. The Speaker controls which bills reach the House floor.",
+ "event": [
+  {
+   "s": [
+    "cbs",
+    "hp"
+   ],
+   "t": "Democrats backed Jeffries by 251 votes to 11 in a closed-door meeting, CBS News reports."
+  },
+  {
+   "s": [
+    "npr",
+    "pbs"
+   ],
+   "t": "The vote starts the formal process. The final choice is made by the whole House at the start of the new Congress."
+  }
+ ],
+ "effects": [
+  {
+   "label": "House leadership",
+   "s": [
+    "npr",
+    "cbs"
+   ],
+   "t": "Jeffries is on track to lead the House from January."
+  }
+ ],
+ "watch": [
+  "The House vote on 3 January"
+ ],
+ "src": {
+  "npr": {
+   "n": "NPR",
+   "t": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+   "tier": "national",
+   "u": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+  },
+  "pbs": {
+   "n": "AP (via PBS NewsHour)",
+   "t": "Democrats nominate Hakeem Jeffries to become House speaker, a historic first",
+   "tier": "agency",
+   "u": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
+  },
+  "cbs": {
+   "n": "CBS News",
+   "t": "Jeffries wins Democratic nomination for House speaker, paving way for historic election",
+   "tier": "national",
+   "u": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/"
+  },
+  "hp": {
+   "n": "HuffPost",
+   "t": "Democrats Nominate Hakeem Jeffries For House Speaker",
+   "tier": "national",
+   "u": "https://www.huffpost.com/entry/hakeem-jeffries-speaker-democrats_n_6afdb254e4b011bd4afca636"
+  }
+ }
+}

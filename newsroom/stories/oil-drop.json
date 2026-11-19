@@ -88,7 +88,7 @@
    "note": "Cheaper energy"
   }
  ],
- "rev": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-19T04:50:00Z",
  "sh": "Oil falls more than 3% on surplus outlook",
  "src": {
   "bah": {
@@ -199,6 +199,18 @@
    "t": "Brent oil - Price - Chart - Historical Data - News",
    "tier": "specialist",
    "u": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  },
+  "naz": {
+   "n": "News.Az",
+   "t": "Oil prices climb as Trump weighs renewed military strikes on Iran",
+   "tier": "other",
+   "u": "https://news.az/news/oil-prices-climb-as-trump-weighs-renewed-military-strikes-on-iran"
+  },
+  "ao": {
+   "n": "Angel One",
+   "t": "Crude Oil Prices Gain as Middle East Attacks Offset Supply Glut Concerns",
+   "tier": "other",
+   "u": "https://www.angelone.in/news/commodities/crude-oil-prices-gain-as-middle-east-attacks-offset-supply-glut-concerns-november-19-2026"
   }
  },
  "summary": "Brent crude settled at $92.44 a barrel on Monday 16 November, down $3.40 or about 3.5%. Traders expect more supply than demand as oil exports from the Middle East recover.",
@@ -262,6 +274,15 @@
     "te2"
    ],
    "t": "At Wednesday’s close, Brent crude was down about 1% at around $92 a barrel, and US crude fell more sharply. Bloomberg says Brent has lost about a fifth of its value this month as Middle East supplies recovered."
+  },
+  {
+   "at": "2026-11-19T04:50:00Z",
+   "d": "19 Nov 2026",
+   "s": [
+    "naz",
+    "ao"
+   ],
+   "t": "Early on Thursday, Brent rose back above $92 a barrel; News.Az put it at $92.69, up 0.8%, as attacks in the Gulf offset worries about too much supply."
   }
  ],
  "watch": [

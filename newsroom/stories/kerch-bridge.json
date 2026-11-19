@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17T16:55:00Z",
- "rev": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-19T04:50:00Z",
  "topics": [
   "Geopolitics"
  ],
@@ -150,6 +150,24 @@
    "t": "War in Ukraine today: latest news, 18 November 2026",
    "tier": "other",
    "u": "https://uavarta.org/en/war-in-ukraine-today-latest-news-18-november-2026-photo/"
+  },
+  "ki2": {
+   "n": "The Kyiv Independent",
+   "t": "Ukrainian forces once more hit Russia's Crimean Bridge, days after devastating strike",
+   "tier": "national",
+   "u": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
+  },
+  "kp": {
+   "n": "Kyiv Post",
+   "t": "Crimean Bridge Attacked Again Hours Before Trump-Putin-Xi Summit",
+   "tier": "national",
+   "u": "https://www.kyivpost.com/post/90541"
+  },
+  "rbc": {
+   "n": "RBC-Ukraine",
+   "t": "Crimean Bridge reportedly struck again, with railway section now in focus",
+   "tier": "national",
+   "u": "https://newsukraine.rbc.ua/news/crimean-bridge-reportedly-struck-again-with-1795042497.html"
   }
  },
  "updates": [
@@ -181,6 +199,18 @@
     "uav"
    ],
    "t": "Ukraine’s General Staff confirmed strikes on the Ilsky and Afipsky refineries. In Kyiv, three people were injured in Russian attacks on Wednesday, Mayor Vitali Klitschko said."
+  },
+  {
+   "at": "2026-11-19T04:50:00Z",
+   "d": "19 Nov 2026",
+   "key": true,
+   "s": [
+    "ki2",
+    "kp",
+    "rbc"
+   ],
+   "t": "The bridge was hit again just after midnight on 19 November. Sergey Aksyonov, the Russian-installed head of Crimea, said traffic was halted; the Kyiv Independent reports the railway link was still working. Ukrainian channels say the railway section was the target.",
+   "why": "Repeated strikes make it harder for Russia to repair the bridge and supply its forces in Crimea."
   }
  ],
  "corrections": [

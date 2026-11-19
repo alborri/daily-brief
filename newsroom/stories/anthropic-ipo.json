@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18T22:45:00Z",
- "rev": "2026-11-18T22:45:00Z",
+ "rev": "2026-11-19T04:50:00Z",
  "live": false,
  "topics": [
   "Markets"
@@ -12,17 +12,18 @@
  "importance": 5,
  "icon": "chart",
  "ev": "AI industry",
- "sh": "Anthropic prices IPO at $83",
- "headline": "Anthropic prices its stock market listing at $83 a share, above its target range, reports say",
- "summary": "Anthropic, the AI company that makes Claude, priced its initial public offering at $83 a share on Wednesday 18 November, above its $70 to $78 range, according to a person familiar with the matter cited by Reuters. The shares are due to start trading on Nasdaq on Thursday under the ticker ANT.",
- "why": "Reuters calls it one of the largest stock market listings on record and the first by a major developer of advanced AI models. It is a test of how much investors will pay for AI after weeks of swings in tech stocks.",
+ "sh": "Anthropic raises $81.3bn in record IPO",
+ "headline": "Anthropic raises $81.3 billion in the largest stock market listing on record",
+ "summary": "Anthropic, the AI company that makes Claude, sold about 980 million shares at $83 each, raising $81.3 billion, the company said late on Wednesday 18 November. The shares are due to start trading on Nasdaq on Thursday under the ticker ANT.",
+ "why": "It tops SpaceX’s roughly $75 billion listing in June. The first day of trading is a test of how much investors will pay for AI after weeks of swings in tech stocks.",
  "event": [
   {
    "s": [
-    "reu2",
-    "cb"
+    "aj3",
+    "cnbci",
+    "cnn3"
    ],
-   "t": "Reuters, CNBC and The Wall Street Journal reported the price, citing people familiar with the matter. Anthropic had planned to sell about 825 million shares."
+   "t": "Anthropic said it sold about 980 million shares, more than the 825 million it first planned, because demand far exceeded forecasts. The $83 price was above its $70 to $78 range."
   },
   {
    "s": [
@@ -30,6 +31,13 @@
     "reu2"
    ],
    "t": "Anthropic set the $70 to $78 range in a filing on 10 November."
+  },
+  {
+   "s": [
+    "cnn3",
+    "bs"
+   ],
+   "t": "Separately, large tech companies including Nvidia are investing a further $26 billion, bringing the total raised to about $107 billion."
   }
  ],
  "effects": [
@@ -76,6 +84,66 @@
    "t": "U.S. Stock Market Today, November 18, 2026: Dow Falls 561 Points, Nasdaq Rises Ahead of Anthropic IPO",
    "tier": "other",
    "u": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"
+  },
+  "aj3": {
+   "n": "Al Jazeera",
+   "t": "Anthropic raises $81.3bn in biggest IPO of all time",
+   "tier": "intl",
+   "u": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time"
+  },
+  "cnbci": {
+   "n": "CNBC",
+   "t": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+   "tier": "national",
+   "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+  },
+  "cnn3": {
+   "n": "CNN",
+   "t": "Anthropic’s Wall Street debut marks a new chapter for AI",
+   "tier": "intl",
+   "u": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai"
+  },
+  "bs": {
+   "n": "Business Standard",
+   "t": "Anthropic IPO raises $107.3 billion, surpassing SpaceX's record debut",
+   "tier": "national",
+   "u": "https://www.business-standard.com/amp/world-news/anthropic-ipo-raises-107-3-billion-surpassing-spacex-s-record-debut-126111900124_1.html"
+  },
+  "afpy": {
+   "n": "AFP (via Yahoo Finance)",
+   "t": "Asian stocks drop as Anthropic's record IPO fails to reassure",
+   "tier": "agency",
+   "u": "https://sg.finance.yahoo.com/news/asian-stocks-drop-anthropics-record-025108875.html"
+  },
+  "bu": {
+   "n": "Business Upturn",
+   "t": "East Asia Markets Close Lower as Tech Sells Off Across the Region",
+   "tier": "other",
+   "u": "https://businessupturn.com/asia/east-asia/east-asia-markets-close-lower-as-tech-sells-off-across-the-region/"
   }
- }
+ },
+ "updates": [
+  {
+   "at": "2026-11-19T04:50:00Z",
+   "d": "19 Nov 2026",
+   "key": true,
+   "top": true,
+   "s": [
+    "aj3",
+    "cnbci",
+    "cnn3"
+   ],
+   "t": "Anthropic confirmed late on Wednesday that it sold about 980 million shares at $83 each, raising $81.3 billion. That is more than the roughly $75 billion SpaceX raised in June, making it the largest stock market listing on record.",
+   "why": "It shows strong investor demand for AI despite weeks of swings in tech stocks."
+  },
+  {
+   "at": "2026-11-19T04:50:00Z",
+   "d": "19 Nov 2026",
+   "s": [
+    "afpy",
+    "bu"
+   ],
+   "t": "In Asia on Thursday, most stock markets closed lower despite the record listing. South Korea’s Kospi fell 1.26% and Taiwan’s main index 1.75%, while Japan’s Nikkei was almost flat. AFP said worries about Nvidia and further Fed rate rises weighed on trading."
+  }
+ ]
 }

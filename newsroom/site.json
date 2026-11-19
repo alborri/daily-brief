@@ -27,9 +27,19 @@
    "text": "Anthropic shares start trading on Nasdaq"
   },
   {
+   "from": "2026-11-19",
+   "t": "Geopolitics",
+   "text": "World Court rules on the Rohingya genocide case against Myanmar"
+  },
+  {
    "from": "2026-11-20",
    "t": "Climate",
    "text": "COP31 is due to end in Antalya"
+  },
+  {
+   "from": "2026-11-20",
+   "t": "Climate",
+   "text": "Cyclone Akvan expected to reach India’s Odisha coast"
   },
   {
    "from": "2026-11-29",
@@ -115,10 +125,19 @@
   },
   {
    "t": "Moldova: a report that Moldova closed its airspace after Russian drones crossed into it. One source so far."
+  },
+  {
+   "t": "Ukraine: a Reuters report, cited by the Kyiv Independent, that Ukrainian strikes have cut Russian oil refining by 45%. Not yet checked against a second source."
+  },
+  {
+   "t": "Iran: a News.Az report that Trump is considering another round of strikes on Iran. One source so far."
+  },
+  {
+   "t": "Saudi Arabia: a Gulf News report of a powerful explosion in Riyadh on 18 November. One source so far."
   }
  ],
- "lastChange": "2026-11-18T22:45:00Z",
- "lastCheck": "2026-11-18T22:45:00Z",
- "note": "New stories: Ebola in Congo, an EU loan for Ukraine, Anthropic’s IPO price, UK inflation, Germany’s electricity tax cut, US measles status, a Russian plane crash and Cyclone Xavier. Updates: Fed minutes, Huang’s testimony, Wall Street’s close, the APEC banquet, Iran and Kuwait, oil, Ukraine and COP31.",
+ "lastChange": "2026-11-19T04:50:00Z",
+ "lastCheck": "2026-11-19T04:50:00Z",
+ "note": "New stories: Jeffries nominated for House Speaker, and Cyclone Akvan heading for India’s east coast. Updates: Anthropic’s record $81.3 billion IPO, the Trump–Xi–Putin meeting, a new strike on the Crimean Bridge, and oil.",
  "schedule": "Every 6 hours: 6:00, 12:00, 18:00, midnight (CET)"
 }

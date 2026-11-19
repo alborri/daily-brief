@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-19T04:50:00Z",
+ "rev": "2026-11-19T04:50:00Z",
+ "live": false,
+ "topics": [
+  "Climate"
+ ],
+ "regions": [
+  "Asia"
+ ],
+ "region": "Asia",
+ "importance": 4,
+ "icon": "storm",
+ "ev": "India weather",
+ "sh": "Cyclone Akvan heads for Odisha",
+ "headline": "Cyclone Akvan is expected to hit India’s Odisha coast on Friday",
+ "summary": "Severe Cyclonic Storm Akvan is likely to make landfall close to Gopalpur in the Indian state of Odisha by noon on Friday 20 November, the India Meteorological Department said on Thursday morning.",
+ "why": "Odisha’s coast has been hit by deadly cyclones before. Early evacuations have greatly reduced deaths in past storms.",
+ "event": [
+  {
+   "s": [
+    "sam",
+    "tfo"
+   ],
+   "t": "The storm is expected to cross the coast between Narsapur in Andhra Pradesh and Puri in Odisha, with sustained winds of 90 to 100 km/h and gusts up to 110 km/h."
+  },
+  {
+   "s": [
+    "otv",
+    "tfo"
+   ],
+   "t": "Rain has already fallen in several places, including Bhubaneswar, Cuttack, Puri and Ganjam. The Federal reports that about 50,000 people have been moved to safety."
+  }
+ ],
+ "effects": [
+  {
+   "label": "Coastal Odisha and Andhra Pradesh",
+   "s": [
+    "sam",
+    "tfo"
+   ],
+   "t": "Strong winds and heavy rain expected on Friday."
+  }
+ ],
+ "watch": [
+  "Landfall around noon on Friday 20 November",
+  "Damage and evacuation reports"
+ ],
+ "src": {
+  "sam": {
+   "n": "Sambad English",
+   "t": "Cyclone 'Akvan' likely to make landfall close to Odisha's Gopalpur: IMD",
+   "tier": "national",
+   "u": "https://sambadenglish.com/latest-news/cyclone-akvan-likely-to-make-landfall-close-to-odishas-gopalpur-imd-12822001"
+  },
+  "tfo": {
+   "n": "The Federal",
+   "t": "Odisha ramps up evacuations as Cyclone Akvan alters course; 50,000 moved to safety",
+   "tier": "national",
+   "u": "https://thefederal.com/category/states/east/odisha/odisha-ramps-up-evacuations-as-cyclone-akvan-alters-course-50000-moved-to-safety-263371"
+  },
+  "otv": {
+   "n": "OdishaTV",
+   "t": "Cyclone Akvan likely to make landfall very close to Gopalpur along Odisha coast, 530 km away",
+   "tier": "national",
+   "u": "https://odishatv.in/odisha/cyclone-akvan-likely-to-make-landfall-very-close-to-gopalpur-along-odisha-coast-530-km-away-12822068"
+  }
+ }
+}
